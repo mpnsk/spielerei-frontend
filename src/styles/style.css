@@ -1,0 +1,38 @@
+input {
+    box-sizing: border-box
+}
+
+.flex-container {
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 25px;
+    width: 240px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.filters > * {
+    width: 100%;
+}
+
+.stick-to-top {
+    background: white;
+    position: sticky;
+    top: 0;
+    padding-top: 8px;
+    margin-top: -8px;
+    width: 100%;
+    z-index: 10;
+}
