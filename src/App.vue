@@ -1,10 +1,8 @@
 <template>
   <div id="app">
-    <b-img slot="aside" fluid :src="require('./assets/die-tore-der-welt.jpg')" width="164px" style="height: auto" alt="placeholder"></b-img>
     <b-modal id="detail-modal" :title="selected.title" ok-only ok-title="close" size="lg">
       <item-detail :game="selected"></item-detail>
     </b-modal>
-    <b-btn v-b-modal.detail-modal>Launch demo modal</b-btn>
     <div class="filters stick-to-top">
       <input type="search" v-model="filterQuery" placeholder="any name"/>
       <input type="number" v-model.number="filterPlayers" placeholder="any number of players" min="1" max="99"/>

@@ -1,17 +1,24 @@
 <template>
     <div>
-        <img src="../assets/die-tore-der-welt.jpg" alt='Avatar' style='width:100%'>
         <div class='container'>
-            <div><i>{{game.title}} #{{game.id}}</i></div>
-            o
+            <b-container>
+               <b-row>
+                   <b-col cols="6">
+                       <img src="../assets/die-tore-der-welt.jpg" alt='Avatar' style='width:100%'>
+                   </b-col>
+                   <b-col cols="6">
+                       <div><i>{{game.title}}</i></div>
+                       <div v-if='game.year'>{{game.year}}</div>
+                       <div>{{game.duration}}</div>
+                       <div>{{game.genre}}</div>
+                       <div><span
+                               v-if='game.playersAtLeast !== game.playersAtMost'>{{game.playersAtLeast}} - {{game.playersAtMost}}</span><span
+                               v-else>{{game.playersAtLeast}}</span> players
+                       </div>
+                   </b-col>
+               </b-row>
+            </b-container>
             <div>{{game.description|short}}</div>
-            <div v-if='game.year'>{{game.year}}</div>
-            <div>{{game.duration}}</div>
-            <div>{{game.genre}}</div>
-            <div><span
-                v-if='game.playersAtLeast !== game.playersAtMost'>{{game.playersAtLeast}} - {{game.playersAtMost}}</span><span
-                v-else>{{game.playersAtLeast}}</span> players
-            </div>
         </div>
     </div>
 </template>
@@ -23,9 +30,10 @@ export default {
     filters: {
         short: (value) => {
             if (!value) return ''
-            value = value.toString().substring(0, 150)
-            var lastIndex = value.lastIndexOf(' ')
-            value = value.substring(0, lastIndex)
+            if (value.length < 250) return value
+            value = value.toString().substring(0, 250)
+            var lastIndex = Math.max(value.lastIndexOf('.'), value.lastIndexOf('!'), value.lastIndexOf('?'))
+            value = value.substring(0, lastIndex+1)
             value += ' [...]'
             return value
         }
