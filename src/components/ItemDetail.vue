@@ -8,7 +8,7 @@
           <b-img slot="aside" fluid :src="require('../assets/die-tore-der-welt.jpg')" class=".d-none"
                  alt="placeholder"></b-img>
         </b-col>
-        <b-col cols="12" sm="8" style="background: aqua">3 of 3</b-col>
+        <b-col cols="12" sm="8" style="background: aqua">{{game.title}}</b-col>
       </b-row>
     </b-container>
 
@@ -23,6 +23,14 @@ export default {
     return {}
   },
   props: ['game']
+  ,
+  beforeRouteLeave (to, from, next) {
+    console.log("route leave!")
+    next()
+    // called when the route that renders this component is about to
+    // be navigated away from.
+    // has access to `this` component instance.
+  }
 }
 </script>
 
