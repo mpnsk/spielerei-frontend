@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-modal id="detail-modal" :title="selected.title" ok-only ok-title="close" size="lg">
+    <b-modal id="detail-modal" :title="selected.title" ok-only ok-title="close" size="lg" v-model="showModal">
       <item-detail :game="selected"></item-detail>
     </b-modal>
     <card :game="selected"></card>
@@ -13,15 +13,14 @@
       <!--<option>gamers game</option>-->
       <!--</select>-->
       <v-select multiple :value.sync="filterGenre" :options="allGenres"></v-select>
-      <button @click
-      "clearFilters">clear filters</button>
+      <button @click="clearFilters">clear filters</button>
       <button @click="addGame">add game</button>
     </div>
 
     <transition-group name="flip-list" tag="div" class="flex-container">
       <div v-for="fgame in filteredGames" :key="fgame.id" class="card flip-list-item"
-           @click="selected=fgame">
-        <card :game="fgame" v-b-modal.detail-modal></card>
+           @click="select(fgame)">
+        <card :game="fgame"></card>
       </div>
     </transition-group>
   </div>
@@ -42,6 +41,7 @@ export default {
       numberOfGames: 5,
       allGenres: ['Strategiespiel', 'Knobelspiel', 'Quiz', 'Kartenspiel', 'Familienspiel', 'Partyspiel', 'Klassiker', 'Gamer\'s Game'],
       selected: {},
+      showModal: false,
     }
   },
   created () {
@@ -83,6 +83,12 @@ export default {
     },
     removeGame (game) {
       this.games.splice(this.games.indexOf(game), 1)
+    },
+    select (game) {
+      console.log('selected game')
+      console.log('game?')
+      this.selected = game
+      this.showModal = true
     },
   },
   components: {
