@@ -8,16 +8,22 @@ export default new Vuex.Store({
     games: [],
   },
   mutations: {
-    load (state) {
-      if (state.games.length <= 0) {
+    load (state, payload) {
+      state.games = payload
+    },
+  },
+  actions: {
+    load (context) {
+      if (this.state.games.length <= 0) {
         console.log('fresh get in store')
         let url = 'http://localhost:8080/game/index'
         let headers = {'Accept': 'application/json'}
         axios.get(url, {headers: headers})
         .then(response => {
-          state.games = response.data.games
+          context.commit('load', response.data.games)
         })
-      } else {
+      }
+      else {
         console.log('reuse old data')
       }
     },

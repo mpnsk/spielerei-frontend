@@ -43,7 +43,7 @@ export default {
     }
   },
   created () {
-    this.$store.commit('load')
+    this.$store.dispatch('load')
   },
   computed: {
     storegame () {
