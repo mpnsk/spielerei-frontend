@@ -29,7 +29,6 @@
 <script>
 import VueSelect from 'vue-select'
 import Card from './components/Card'
-import axios from 'axios'
 
 export default {
   name: 'app',
@@ -37,7 +36,6 @@ export default {
     return {
       filterQuery: '',
       filterPlayers: 4,
-      games: [],
       filterGenre: [],
       numberOfGames: 5,
       allGenres: ['Strategiespiel', 'Knobelspiel', 'Quiz', 'Kartenspiel', 'Familienspiel', 'Partyspiel', 'Klassiker', 'Gamer\'s Game'],
@@ -45,20 +43,15 @@ export default {
     }
   },
   created () {
-    let url = 'http://localhost:8080/game/index'
-    let headers = {'Accept': 'application/json'}
-    if (this.games.length <= 0) {
-      console.log("fresh get")
-      axios.get(url, {headers: headers})
-      .then(response => {
-        this.games = response.data.games
-      })
-    }
+    this.$store.commit('load')
   },
   computed: {
+    storegame () {
+      return this.$store.state.games
+    },
     filteredGames () {
       let self = this
-      return self.games.filter(item => {
+      return self.storegame.filter(item => {
         const searchRegex = new RegExp(self.filterQuery, 'i')
         let display = true
         if (self.filterQuery) display = display && searchRegex.test(item.title)
