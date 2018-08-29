@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <b-modal id="detail-modal" :title="selected.title" ok-only ok-title="close" size="lg">
-      <!--<item-detail :game="selected"></item-detail>-->
+      <item-detail :game="selected"></item-detail>
     </b-modal>
     <card :game="selected"></card>
     <div class="filters stick-to-top">
@@ -13,14 +13,15 @@
       <!--<option>gamers game</option>-->
       <!--</select>-->
       <v-select multiple :value.sync="filterGenre" :options="allGenres"></v-select>
-      <button @click="clearFilters">clear filters</button>
+      <button @click
+      "clearFilters">clear filters</button>
       <button @click="addGame">add game</button>
     </div>
 
     <transition-group name="flip-list" tag="div" class="flex-container">
       <div v-for="fgame in filteredGames" :key="fgame.id" class="card flip-list-item"
            @click="selected=fgame">
-        <card :game="fgame"></card>
+        <card :game="fgame" v-b-modal.detail-modal></card>
       </div>
     </transition-group>
   </div>
@@ -29,6 +30,7 @@
 <script>
 import VueSelect from 'vue-select'
 import Card from './components/Card'
+import ItemDetail from './components/ItemDetail'
 
 export default {
   name: 'app',
@@ -86,6 +88,7 @@ export default {
   components: {
     'v-select': VueSelect,
     'card': Card,
+    'item-detail': ItemDetail,
   },
 }
 </script>
