@@ -5,16 +5,15 @@
       <item-detail :game="selectedGame"></item-detail>
     </b-modal>
     <div class="filters stick-to-top">
-      <input type="search" v-model="filterQuery" placeholder="any name"/>
-      <input type="number" v-model.number="filterPlayers" placeholder="any number of players" min="1" max="99"/>
+      <input type="search" v-model="filter.q" placeholder="any name"/>
+      <input type="number" v-model.number="filter.players" placeholder="any number of players" min="1" max="99"/>
       <!--<select v-model="filterGenre" multiple>-->
       <!--<option>all</option>-->
       <!--<option>strategy</option>-->
       <!--<option>gamers game</option>-->
       <!--</select>-->
-      <v-select multiple :value.sync="filterGenre" :options="allGenres"></v-select>
+      <v-select multiple :value.sync="filter.genre" :options="genres"></v-select>
       <button @click="clearFilters">clear filters</button>
-      <button @click="addGame">add game</button>
     </div>
 
     <transition-group name="flip-list" tag="div" class="flex-container">
@@ -35,12 +34,9 @@ export default {
   name: 'app',
   data () {
     return {
-      filterQuery: '',
-      filterPlayers: 4,
-      filterGenre: [],
-      numberOfGames: 5,
-      allGenres: ['Strategiespiel', 'Knobelspiel', 'Quiz', 'Kartenspiel', 'Familienspiel', 'Partyspiel', 'Klassiker', 'Gamer\'s Game'],
-      showModal: typeof this.selected != 'undefined',
+      filter: {q: '', players: 4, genre: []},
+      genres: ['Strategiespiel', 'Knobelspiel', 'Quiz', 'Kartenspiel', 'Familienspiel', 'Partyspiel', 'Klassiker', 'Gamer\'s Game'],
+      showModal: typeof this.selected !== 'undefined',
     }
   },
   created () {
@@ -54,12 +50,12 @@ export default {
     filteredGames () {
       let self = this
       return self.storegame.filter(item => {
-        const searchRegex = new RegExp(self.filterQuery, 'i')
+        const searchRegex = new RegExp(self.filter.q, 'i')
         let display = true
-        if (self.filterQuery) display = display && searchRegex.test(item.title)
-        if (self.filterPlayers) display = display && (item.players_min <= self.filterPlayers && item.players_max >= self.filterPlayers)
-        let somethingSelected = self.filterGenre[0] !== undefined
-        if (somethingSelected) display = display && self.filterGenre.includes(item.genre)
+        if (self.filter.q) display = display && searchRegex.test(item.title)
+        if (self.filter.players) display = display && (item.players_min <= self.filter.players && item.players_max >= self.filter.players)
+        let somethingSelected = self.filter.genre[0] !== undefined
+        if (somethingSelected) display = display && self.filter.genre.includes(item.genre)
         return display
       },
       )
@@ -77,22 +73,7 @@ export default {
       this.$router.push({path: '/'})
     },
     clearFilters () {
-      this.filterQuery = ''
-      this.filterPlayers = ''
-      this.filterGenre = []
-    },
-    addGame () {
-      this.numberOfGames++
-      this.games.splice(0, 0, {
-        id: this.numberOfGames,
-        name: Math.random().toString(36).substring(7),
-        genre: 'Knobelspiel',
-        playersAtLeast: 2,
-        playersAtMost: 6,
-      })
-    },
-    removeGame (game) {
-      this.games.splice(this.games.indexOf(game), 1)
+      this.filter = {q: '', players: '', genre: []}
     },
     select (game) {
       this.showModal = true
