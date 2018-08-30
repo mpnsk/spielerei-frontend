@@ -15,7 +15,9 @@
                                v-if='game.playersAtLeast !== game.playersAtMost'>{{game.playersAtLeast}} - {{game.playersAtMost}}</span><span
                                v-else>{{game.playersAtLeast}}</span> players
                        </div>
-                       <router-link :to="{name: 'byid', params: {id: game.id, game: game}}">detail</router-link>
+                       <div @click.stop>
+                           <router-link :to="{name: 'byid', params: {id: game.id, game: game}}">detail</router-link>
+                       </div>
                    </b-col>
                </b-row>
             </b-container>
