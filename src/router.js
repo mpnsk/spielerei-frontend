@@ -6,15 +6,17 @@ import ItemDetail from './components/ItemDetail'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
+      path: '/:selected?',
       name: 'home',
       component: Catalog,
+      props: true,
     },
     {
-      path: '/:id',
+      path: '/id/:id',
       name: 'byid',
       component: ItemDetail,
       props: true,

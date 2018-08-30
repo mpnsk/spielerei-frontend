@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <b-modal id="detail-modal" :title="selected.title" ok-only ok-title="close" size="lg" v-model="showModal">
-      <item-detail :game="selected"></item-detail>
+    <b-modal id="detail-modal" :title="selectedGame.title" ok-only ok-title="close" size="lg" v-model="showModal"
+             @hidden="goHome">
+      <item-detail :game="selectedGame"></item-detail>
     </b-modal>
-    <card :game="selected"></card>
     <div class="filters stick-to-top">
       <input type="search" v-model="filterQuery" placeholder="any name"/>
       <input type="number" v-model.number="filterPlayers" placeholder="any number of players" min="1" max="99"/>
@@ -40,8 +40,7 @@ export default {
       filterGenre: [],
       numberOfGames: 5,
       allGenres: ['Strategiespiel', 'Knobelspiel', 'Quiz', 'Kartenspiel', 'Familienspiel', 'Partyspiel', 'Klassiker', 'Gamer\'s Game'],
-      selected: {},
-      showModal: false,
+      showModal: typeof this.selected != 'undefined',
     }
   },
   created () {
@@ -49,6 +48,7 @@ export default {
   },
   computed: {
     storegame () {
+      console.log('what are yu readin')
       return this.$store.state.games
     },
     filteredGames () {
@@ -64,8 +64,18 @@ export default {
       },
       )
     },
+    selectedGame () {
+      if (typeof this.selected !== 'undefined' && typeof this.storegame !== 'undefined') {
+        return this.storegame[parseInt(this.selected)]
+      }
+      return {title: 'placeholder'}
+    },
   },
   methods: {
+    goHome () {
+      // this.showModal = false
+      this.$router.push({path: '/'})
+    },
     clearFilters () {
       this.filterQuery = ''
       this.filterPlayers = ''
@@ -85,10 +95,8 @@ export default {
       this.games.splice(this.games.indexOf(game), 1)
     },
     select (game) {
-      console.log('selected game')
-      console.log('game?')
-      this.selected = game
       this.showModal = true
+      this.$router.push({path: '/' + this.storegame.indexOf(game)})
     },
   },
   components: {
@@ -96,6 +104,7 @@ export default {
     'card': Card,
     'item-detail': ItemDetail,
   },
+  props: ['selected'],
 }
 </script>
 
