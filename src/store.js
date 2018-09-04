@@ -14,9 +14,16 @@ export default new Vuex.Store({
   },
   actions: {
     load (context) {
+      var LOAD_DUMMY_DATA = true
+      if (LOAD_DUMMY_DATA) {
+        console.log('using dummy data')
+        let data = require('./assets/dummy')
+        context.commit('load', data.games)
+        return
+      }
       if (this.state.games.length <= 0) {
-        console.log('fresh get in store')
-        let url = 'http://localhost:8080/game/index'
+        console.log('loading data from backend')
+        let url = 'http://localhost:8084/game/index'
         let headers = {'Accept': 'application/json'}
         axios.get(url, {headers: headers})
         .then(response => {

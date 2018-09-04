@@ -1,0 +1,3004 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Wiederer\u00f6ffnung der Spielerei",
+      "description": "**Datum:** noch nicht bekannt\\n**Ort:** Westenstra\u00dfe 14\\nWir haben vor die Spielerei wieder zu er\u00f6ffnen\\, daf\u00fcr d\u00fcrfen wir die R\u00e4ume der Creperie in der Westenstra\u00dfe 14 nutzen.\\nAu\u00dferdem haben wir dieses Trello-Board gebaut\\, um euch die M\u00f6glichkeit zu geben\\, zu sehen welche Spiele in der neuen Spielerei verf\u00fcgbar sind.\\nWir geben uns M\u00fche\\, diese Liste zu pflegen und nach und nach um Informationen zu erg\u00e4nzen. Aktuell sind die Spiele in grobe Genres sortiert. Zus\u00e4tzlich gibt es eine Spalten in der die ausgeliehenen Spiele landen. Zus\u00e4tzlich haben wir ein Archiv mit eingelagerten Spielen die ihr auf Anfrage ausleihen und spielen k\u00f6nnt.\\n\\nWir freuen uns euch in der neuen Spielerei willkommen zu hei\u00dfen.\\nEuer Spielerei-Team",
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "2",
+      "title": "Fragen zur Spielerei",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ba27d3e155ad71d2429d\/b732a72fb5a04a74f71c8a4776c946c6\/Fragen-zur-Spielerei.jpg"
+    },
+    {
+      "id": "3",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ba27d3e155ad71d2429d\/53b5ac9457cc0acfeb272d3c0f91ba9d\/Spielerei.png"
+    },
+    {
+      "id": "4",
+      "title": "Wie funktioniert diese Seite?!",
+      "description": "Rechts seht ihr die Spiele die wir aktuell in der Spielerei haben.\\nDabei sind die Spiele in entsprechende Genres sortiert.\\nBei jedem Spiel seht ihr neben einem Foto auch allgemeine Informationen zum Spiel.\\nWenn ihr eine der Karten anklickt seht Ihr ausf\u00fchrlichere Informationen\\, hier werden wir in Zukunft Beschreibungen der Spiele eintragen und \u00fcber die Label besondere Informationen hervorzuheben.",
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b820ae924437afad89b0\/833a4bd648333217d6b35a75b8db18bb\/quotesMaker_aagecreagf1414354.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Wie suche ich nach Spielen?",
+      "description": "Im Trello-Board k\u00f6nnt ihr sowohl nach den **Namen** von Spielen suchen\\, (*wenn ihr etwas bestimmtes im Kopf habt und wissen wollt ob wir es da haben*) oder ihr k\u00f6nnt das Board nach bestimmten Informationen **filtern**.\\n\\n**Um etwas zu Suchen geht ihr wie folgt vor:**\\n\\n1. Ihr klickt oben rechts auf **Men\u00fc anzeigen**\\n![Men\u00fc anzeigen](https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/57de7481766288680de1f36abb6f8b43\/Bildschirmfoto_2017-10-29_um_22.47.31.png)\\n\\n2. Dann klickt ihr auf **Karten filtern**\\n![Karten filtern](https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/ca9c62f4c07a701a57b31b5ab424e4fb\/Bildschirmfoto_2017-10-29_um_22.49.55.png)\\n\\n3. Jetzt k\u00f6nnt ihr direkt nach einem Spiel **suchen**\\n![Spiel suchen](https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/c694ddf1660a782adfc903fde257b0af\/Bildschirmfoto_2017-10-29_um_22.51.26.png)\\n\\n4. Oder die Liste **filtern**\\n![Filter anzeigen](https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/14df4abf7f297f03e5b89bb6acf84086\/Bildschirmfoto_2017-10-29_um_22.55.01.png)\\n\\nDabei k\u00f6nnt ihr nach einem Spielgenre filtern\\, euch besondere Spiele (z.B. Spiel des Jahres) anzeigen lassen\\, oder eine Auswahl treffen wie viele Leute das Spiel spielen sollen\\n![Spiele Filtern](https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/156c2aa2f3853440f6574cff6914407b\/Bildschirmfoto_2017-10-29_um_22.56.48.png)\\n\\nWenn ihr mehre Filter anwendet\\, solltet ihr noch einstallen\\, dass das Ergebnis alle Filter beachten muss. Scrollt dazu in der Seitenleiste ganz nach unten und w\u00e4hlt folgende Option aus:\\n![Filtern](https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/eb6f2c2c2fd72de2a7803fd5163894d0\/Bildschirmfoto_2017-10-29_um_22.57.05.png)\\n\\nFr\u00f6hliches Spiele Suchen!\\n====================",
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/703addad904a2877f57f39258a271bec\/quotesMaker_agecefraga1414340.jpg"
+    },
+    {
+      "id": "6",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/57de7481766288680de1f36abb6f8b43\/Bildschirmfoto_2017-10-29_um_22.47.31.png"
+    },
+    {
+      "id": "7",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/ca9c62f4c07a701a57b31b5ab424e4fb\/Bildschirmfoto_2017-10-29_um_22.49.55.png"
+    },
+    {
+      "id": "8",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/c694ddf1660a782adfc903fde257b0af\/Bildschirmfoto_2017-10-29_um_22.51.26.png"
+    },
+    {
+      "id": "9",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/14df4abf7f297f03e5b89bb6acf84086\/Bildschirmfoto_2017-10-29_um_22.55.01.png"
+    },
+    {
+      "id": "10",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/156c2aa2f3853440f6574cff6914407b\/Bildschirmfoto_2017-10-29_um_22.56.48.png"
+    },
+    {
+      "id": "11",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f64b179f795d165b11a0d9\/eb6f2c2c2fd72de2a7803fd5163894d0\/Bildschirmfoto_2017-10-29_um_22.57.05.png"
+    },
+    {
+      "id": "12",
+      "title": "Utopia",
+      "description": "Der K\u00f6nig von Utopia hat die F\u00fcrsten der gr\u00f6\u00dften antiken Kulturen eingeladen\\, die Vielfalt der Architektur ihrer weit entfernten L\u00e4nder auf der Inselgruppe Utopias entstehen zu lassen. Die Spieler sind Minister des Monarchen und ihre Aufgabe ist es\\, die G\u00e4ste in der Stadt zu empfangen und sie auf ihrem Weg \u00fcber die einzelnen Inseln zu begleiten. Jeder Schritt des Stadtausbaus wird ihr Ansehen\\, ihr Prestige vergr\u00f6\u00dfern.\\n\\nDas Ziel des Spieles ist es\\, derjenige zu sein\\, der mindestens 50 Prestige-Punkte gesammelt hat. Au\u00dferdem darf nat\u00fcrlich gebaut\\, R\u00e4nke geschmiedet und vor allem begeistert gespielt werden.\\n",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "60 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f47cb0ea5d93b50ffa7d47\/94b4df66dd1cb7ecd7578ebdc280b1c9\/trello909665746.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Terra Mystica",
+      "description": "\\nIn Terra Mystica stehen den Spielern 14 verschiedene V\u00f6lker mit speziellen Eigenschaften zur Verf\u00fcgung. Da es au\u00dferdem auch noch austauschbare Rundenkarten gibt\\, sind zahlreiche Kombinationsm\u00f6glichkeiten vorhanden\\, durch die das Spiel auch bei mehrmaligem Spielen immer spannend bleibt. \\n\\nIm Spiel \u00fcbernimmt jeder Spieler eines dieser V\u00f6lker\\, und versucht durch gezielten Ausbau \u0027seines\u0027 Gebietes seinen Machtvorteil auszubauen\\, wodurch nat\u00fcrlich auch Spannungsverh\u00e4ltnisse zwischen den Spielern entstehen. \\n\\n",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 Min \/ Spieler",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f47e0030c1af9e5e6894f9\/91f8feb2ab55fdaafadeb920cf1760a8\/photo.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Die Tore der Welt",
+      "description": " Bei die \u0027Tore der Welt\u0027 handelt es sich um ein besonders pr\u00e4miertes Spiel\\, hat es doch die Auszeichnungen als Sonderpreis Spiel des Jahres plus 2010\\, den 3. Platz des Deutschen Spielepreises 2010 und \u0027Spielehit f\u00fcr Freunde 2010\u0027 erhalten.\\n\\nDas Spiel basiert auf dem gleichnamigen Roman von Ken Follett und hat seinen Schauplatz im England des 14. Jahrhunderts. Die Nachfahren der Erbauer der Kathedrale von Kingsbridge m\u00fcssen sich neuen Aufgaben widmen\\, um ihre Stadt weiter auszubauen und auch\\, um diese zu sanieren. Durch die M\u00f6glichkeit\\, auf verschiedene Aufgaben eigenst\u00e4ndig zu reagieren bleibt es bis zum Ende spannend. Gebaute Bauwerke sowie Spenden bringen den Spielern Siegpunkte ein. Alles als eigentlich ganz einfach - bis die Pest anf\u00e4ngt\\, um sich zu greifen... Schafft ihr es\\, euere B\u00fcrger am Leben zu erhalten?",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 - 120 Min",
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f47f947d29ba301bd256d4\/dfc87b522f1a64136a86a0519634cab6\/trello1713119541.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Tikal",
+      "description": "Mindestens zwei bis vier Teams von Arch\u00e4ologen sind im Dschungel von Tikal auf der Suche nach Mayasiedlungen. Dabei m\u00fcssen Tempel freigelegt werden und Sch\u00e4tze geborgen werden. Strategisches Vorgehen ist hier vonn\u00f6ten\\, da dei Ausgrabungen teuer sind\\, und auch die nahen Vulkane jederzeit ausbrechen k\u00f6nnten. Nur wer die meisten Tempel- und Schatzpunkte sammelt\\, kann gewinnen! \\n\\nDurch das Nachziehen von Gel\u00e4ndekarten wird das erkundete Areal immer gr\u00f6\u00dfer. Jeder Spieler hat zehn Aktionen frei\\, in denen er seinen Expeditionstrupp durch den Urwald schicken kann. Doch da auch Vulkanpl\u00e4ttchen mit im Spiel sind\\, wird der Spielablauf explosiv - dann findet eine Zwischenwertung statt. Nach vier Wertungsrunden hat der Spieler mit dem h\u00e4chsten Punktestand gewonnen. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 Min",
+      "year": "1990",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f47fe4de23c374052bf048\/72ea53d5b82badbddf8b4ed6035b2938\/trello417460598.jpg"
+    },
+    {
+      "id": "16",
+      "title": "The Cave",
+      "description": "Bei \u0027The Cave\u0027 handelt es sich um ein Spiel mit taktischen Elementen. Die Spieler schl\u00fcpfen in die Rollen von H\u00f6hlenforschern\\, die ein weitverzweigtes Netz an unterirdischen Tunneln und H\u00f6hlen erkunden. Da jeder einen Rucksack mit sich tr\u00e4gt\\, in dem bis zu acht Gegenst\u00e4nde verstaut werden k\u00f6nnen\\, kann die Erforschung verschieden lange andauern. Durch den Aufbau mit verschiendenen H\u00f6hlenpl\u00e4ttchen bleibt das Spiel spannend und kann mehrmals hintereinander gespielt werden. ",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "60 - 90 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48074666fd5bf17712868\/b4b175b39accdc1d5f4b1d0f139b6330\/trello1633796005.jpg"
+    },
+    {
+      "id": "17",
+      "title": "The Village",
+      "description": "In einem mittelalterlichen Dorf m\u00fcssen die Spieler die Geschicke einer Familie lenken. Die Lebenszeit der Dorfbewohner ist allerdings begrenzt und alle T\u00e4tigkeiten\\, denen sie nachgehen\\, kosten Zeit. Ziel des Spiels ist es\\, durch geschicktes G\u00fcter- und Zeitmanagement die meisten Siegpunkte zu erreichen.Das Spielende wird eingel\u00e4utet\\, wenn der letzte Platz in der Dorfchronik oder das letzte freie anonyme Grab belegt sind. Zum Schluss erfolgt die Endwertung\\, in der es Punkte f\u00fcr erlangte Stufen in Kirche und Rathaus\\, f\u00fcr erzielte Reise-Etappen\\, f\u00fcr Kundenpl\u00e4ttchen und Goldm\u00fcnzen sowie f\u00fcr die verstorbene Familienmitglieder in der Dorfchronik gibt. Der Spieler mit den meisten Punkten gewinnt.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 - 90 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4809cb69ded744e37dcaa\/b20a917228ecbc55e8c4cee2e6d7704b\/photo.jpg"
+    },
+    {
+      "id": "18",
+      "title": "The Village Inn",
+      "description": "Mit Village Inn wurde eine Erweiterung zum Grundspiel Village geschaffen. Nun kann ein f\u00fcnfter Spieler am Spiel teilnehmen\\, und ein Wirtshaus wurde mit ins Spiel eingeflochten. Au\u00dferdem kann nun Bier gebraut werden. ",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "60 - 120 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f480bcea5d93b50ffab3f8\/9f2a7fabaa5762f143e97d0de385cdd7\/trello406457547.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Elfenland",
+      "description": "Die Mitspieler\\, gekennzeichnet durch einen Elfenstiefel\\, m\u00fcssen durch die verschiedenen Landschaften eines auf dem Spielplan dargestellten Elfenreichs wandern\\, um ihre Ortssteine einzusammeln. Dazu nutzen sie verschiedene Transportmittel\\, die in Abh\u00e4ngigkeit von der Landschaft auf dem Weg zwischen zwei St\u00e4dten eingesetzt werden. Wichtigstes spielerisches Element ist damit das Finden des optimalen Weges. Sieger des Spiels ist\\, wer nach vier Runden\\, beziehungsweise mit der Erweiterung \u201eElfengold\u201c nach sechs Runden\\, die meisten der Steine gesammelt hat. ",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "60 Min",
+      "year": "1998",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f481445ffc7d7c99d3f19f\/fedcef3701b32657fe112730edb98357\/trello834604928.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Kingdom Builder",
+      "description": "Kingdom Builder ist ein Aufbauspiel\\, in dem die Spieler die Rolle von Siedlern \u00fcbernehmen\\, die jeweils ein eigenes K\u00f6nigreich erschaffen. Der Spielplan ist variabel zusammensetzbar. Ziel des Spieles ist es\\, am Ende das meiste Gold zu besitzen\\, die Bedingungen zum Erreichen dieses Ziels wechseln allerdings mit jedem Spiel.\\nSo m\u00fcssen die Spieler ihre H\u00e4user m\u00f6glichst geschickt auf den Spielplan setzen\\, um m\u00f6glichst viele Punkte zu erreichen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4829ba1ac97036f7d2dfd\/ad119784f26093b8ebb1b18b34b8f0aa\/trello892131783.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Zug um Zug",
+      "description": "Bei Zug um Zug Deutschland handelt es sich um eine Sonderedition des beliebten Spiels Zug um Zug. Hier d\u00fcrfen Orte in ganz Deutschland (und auch Zielbahnh\u00f6fe in angrenzenden Nachbarl\u00e4ndern) miteinander verbunden werden. Ziel ist es\\, auf der Punkteleiste m\u00f6glichst weit nach vorne zu kommen und alle eigenen Aufgabenkarten zu erf\u00fcllen.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 - 60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f484abf7a19da1c1663cd3\/f1d4655d5b8b0b1b97cf721cb59f0a80\/photo.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Galaxy Trucker",
+      "description": "Die Spieler bauen im Verlauf von drei Etappen ihr Raumschiff. Doch \u201eein\u201c Raumschiff zu bauen reicht nicht aus. Es muss schon ein sehr gutes Raumschiff sein\\, denn sonst \u00fcbersteht es die Gefahren der Reise\\, die im All lauern\\, nicht. Etliche Hindernisse gilt es zu \u00fcberwinden. Doch es warten auch einige Verdienstm\u00f6glichkeiten. Wer dann noch unbesch\u00e4digt und als Erster ankommt\\, verdient sich noch Extra Credits! In der ersten Etappe beginnen die Spieler mit einem kleinen Raumschiff und fliegen eine kurze Strecke. In der zweiten Etappe werden die Raumfahrthelden mit dem Bau eines mittleren Raumschiffes konfrontiert\\, in der die anschlie\u00dfende Reise schon mehr Gefahren beinhaltet. Mit der dritten und letzten Etappe werden mithilfe des gr\u00f6\u00dften Raumschiffes die entferntesten und gef\u00e4hrlichsten Ecken der Galaxis angeflogen\\, aber ob das unbeschadet \u00fcberstanden wird? Nur wer am Ende die meisten Credits vor sich liegen hat\\, gewinnt dieses Spiel.\\n",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48537b903fd038894ca71\/30e1c7013c5e47eae229c77cd8b164f6\/trello1894715891.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Steam Park",
+      "description": "Im verqualmten St\u00e4dtchen Roboburg findet bald wieder einmal das gro\u00dfe Roboterfest statt. Blechkameraden von Nah und Fern knattern in den Ort\\, um in nur wenigen Tagen die im Schmier\u00f6l ihrer Metallgesichter hat erschuftete Kohle auf die verbeulten K\u00f6pfe zu hauen. An allen Ecken von Roboburg schie\u00dfen daher Vergn\u00fcgungsparks wie st\u00e4hlerne Pilze aus dem staubigen Boden. Du bist Boss eines dieser Parks und dein erkl\u00e4rtes Ziel ist es den Blechk\u00f6pfen in k\u00fcrzester Zeit so viel Geld wie m\u00f6glich aus den schmierigen Gelenken zu leiern. Zeit ist kostbar\\, daher gilt es m\u00f6glichst schnell lukrative kohlekraftbetriebene Attraktionen zu errichten und m\u00f6glichst viele vergn\u00fcgungshungrige Roboter anzulocken. Kein Problem\\, w\u00e4ren da nicht die strengen Umweltauflagen der Stadtverwaltung von Roboburg.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4855148926bb4aec1137d\/8f496d6176d3961af7b96f4543445254\/trello1249432078.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Le Havre",
+      "description": "Die Spieler konkurrieren in jeder Runde um verschiedene Aktionsm\u00f6glichkeiten. Dar\u00fcber hinaus gibt es vergleichsweise wenig Interaktion. Le Havre richtet sich an fortgeschrittene Spieler. Die Spieldauer betr\u00e4gt 100 bis 200 Minuten. Das Spiel kann gemeinschaftlich wie auch einzeln gespielt werden.",
+      "players_min": "1",
+      "players_max": "5",
+      "duration": "100 - 200 Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48596c5e495a9e5077ad7\/66b71e5d19634e8fa688413b82e45b09\/trello995015426.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Die Legenden von Andor",
+      "description": "Die Spieler schl\u00fcpfen in die Rolle von Helden\\, die das Land Andor vor der Invasion b\u00f6ser Kreaturen sch\u00fctzen und dabei verschiedene Aufgaben erf\u00fcllen m\u00fcssen. Die Helden arbeiten in der Regel nur 7 Stunden am Tag\\, Mehrarbeit ist nur unter besonderer Willensanstrengung m\u00f6glich. Die wesentlichen Elemente des Spieles lernen die Spieler in den beiden Teilen des Einf\u00fchrungsspiels anhand der Losspiel-Anleitung f\u00fcr die erste Legende kennen. Welche Aufgaben die Spieler erf\u00fcllen m\u00fcssen\\, erfahren sie erst im Laufe der verschiedenen Legenden. Dabei werden im Basisspiel f\u00fcnf Legenden gespielt\\, eine sechste Legende kann von den Spielern selber erschaffen werden. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 - 90 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48705507e49cdd66860b9\/1247790056bce93474f8e8b2c1a38c4c\/trello492865143.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Dungeon Fighter",
+      "description": "Echte Helden gibt es schon lange nicht mehr und das was als diese getarnt so durch die Lande irrt\\, mit vorget\u00e4uschten Heldentaten Speis und Trank erbettelt\\, dass besch\u00e4digt das Ansehen der wahren Helden f\u00fcr Generationen.\\n\\nZur Rettung des Berufsstands eilt daher der K\u00f6nig herbei und meint\\, dass sich diese angeblichen Helden auch mal beweisen m\u00fcssten. Somit werden all die Scharlatane eingefangen\\, ein dunkles und echt gef\u00e4hrliches Labyrinth gesucht und die gl\u00fccklosen Helden\\, auch Spieler genannt\\, ihrem Schicksal entgegen geworfen.\\n\\nZum Gl\u00fcck f\u00fcr die Helden hat jedes Labyrinth auch einen Ausgang\\, nur dazu muss dieses einmal komplett durchquert werden. Vollgestopft mit Monstern und Scheu\u00dflichkeiten ist dies nur nicht so leicht und zum ersten Mal in ihrem Leben erleben sie eine echte Herausforderung.\\n\\nKlingt jetzt alles sehr ernst\\, ist es aber gar nicht. Dungeon Fighter ist ein Spa\u00dfspiel und daher wird der Schaden durch W\u00fcrfelwurf ermittelt. Klingt jetzt nicht witzig? Doch\\, wenn der W\u00fcrfel erst einmal unterm Bein hindurch geworfen\\, mit dem Kopf angesto\u00dfen und mindestens einmal auf dem Tisch aufkommen muss\\, bevor er einen Treffer anzeigen darf.",
+      "players_min": "1",
+      "players_max": "6",
+      "duration": "45 - 60 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f486ab2311b8adccea0abd\/2dab3a29831eaff98401cf82d3bc63fa\/photo.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Warriors \u0026 Traders",
+      "description": "Im Mittelalter des westlichen oder \u00f6stlichen Europas streiten die Spieler als K\u00f6nig eines der damaligen Reiche um die Vorherrschaft.\\n\\nKrieg ist dabei eine nicht unbekannte Option\\, um seine Machtgel\u00fcste zu verwirklichen. Aber auch der Handel und Pakte mit den Nachbarn k\u00f6nnen einen Spieler dem Spielsieg n\u00e4her bringen.\\n\\nErschwerend kommt hinzu\\, dass das eigene K\u00f6nigreich von Barbaren bev\u00f6lkert ist\\, welche im Lauf des Spiels immer st\u00e4rker werden und so bald ein un\u00fcberwindliches Hindernis darstellen. Das Befreien der eigenen L\u00e4ndereien und die Wiedervereinigung des Landes ist aber ein spielentscheidender Punkt.",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "80 - 120 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48734f772764081458608\/d8316c803a2d39a8ab3a365125de681c\/trello303295450.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Risiko",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "...",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4878d2aa6e7ce97f259f7\/c3656f107a9db9a7403161e0fb69d134\/trello760258210.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Monopoly",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f491dfc135ffaa3dbcabfc\/02e9e5ed4034db609dddab5908d7a8c1\/photo.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Monopoly Imperium",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4925741bf3606ecc6833d\/6aac5f73c58b1b91f4da2ae1462463be\/photo.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Ticket to Ride (Zug um Zug) - Im Herzen Afrikas",
+      "description": "Zug um Zug - Im Herzen Afrikas ist eine Erweiterung des traditionellen Zug um Zug. Es gibt ein zus\u00e4tzliches Spielbrett mit Zugl\u00e4ufen auf dem afrikanischen Kontinent.\\n",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 - 60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f492dd144fb274292237e6\/9fc672b3a57ec87e87bdf0e9c2119571\/photo.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Glastonbury",
+      "description": " Willkommen in Glastonbury\\, der magischen Stadt. In der High Street finden Sie alles\\, was Sie an wirkungsvollen Zutaten f\u00fcr Ihre m\u00e4chtigen Zaubertr\u00e4nke brauchen.\\n\\nAbwechselnd sammeln die Spieler Zutatenkarten f\u00fcr ihre Zaubertr\u00e4nke ein und legen sie auf ihre Ablagestapel\\, die \u201eZauberkessel\u201c.\\n\\nJeder Spieler versucht dabei m\u00f6glichst viele der Karten mit der jeweils gleichen Zutat einzusammeln. Er sieht jedoch immer nur die oberste Zutatenkarte in seinem Kessel. Daher muss er sich merken\\, welche Zutaten er bereits gesammelt hat. Sonst kann es bei Spielende unangenehme \u00dcberraschungen geben\\, denn Zutatenkarten\\, die nur einmal im Kessel liegen\\, z\u00e4hlen Minuspunkte.\\n\\nBei Spielende werden die gesammelten Zutaten gewertet und es gewinnt der Spieler mit den meisten Punkten. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f495b2c1a0ea267bf9d052\/7e332001185ad08481d02c42d705f1b3\/trello356091297.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Die Glasstra\u00dfe",
+      "description": "Glasstra\u00dfe entf\u00fchrt die Spieler in den Bayrischen Wald Mitte des 18. Jahrhunderts. Mit Hilfe von zwei raffinierten Produktionsr\u00e4dern erzeugst du Glas und Ziegel und verwaltest deine Rohstoffe f\u00fcr die Herstellung dieser G\u00fcter. Auf deinem Spielertableau gestaltest du die Landschaft zu deinem Vorteil und baust die verschiedensten Geb\u00e4ude\\, um daraus im Spiel Nutzen zu ziehen.\\n\\nZentrales Spielelement sind 15 Personenkarten\\, die jeder Spieler zur Verf\u00fcgung hat\\, und f\u00fcnf davon in jeder Bauperiode ausw\u00e4hlt. Doch Vorsicht: Haben deine Mitspieler die gleiche Karte auf der Hand\\, so schr\u00e4nkt das deine Aktionsm\u00f6glichkeiten ein. Flexibel auf diese Unw\u00e4gbarkeit reagieren zu k\u00f6nnen\\, ist der Schl\u00fcssel zum Erfolg!\\n\\nOb alleine\\, zu zweit oder zu mehreren: Die Glasstra\u00dfe ist immer ein Vergn\u00fcgen! ",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "20 Min \/ Person",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4993ef7a19da1c1672e2b\/1d2b79e09850bf738e3836c10bdcf26f\/photo.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Goblins Inc.",
+      "description": "Der Chef der Goblin Inc. will in Rente gehen und sucht einen kreativen\\, skrupellosen Nachfolger. Der Wettbewerb beginnt. Der hinterh\u00e4ltigste Kollege gewinnt.\\nF\u00fcr den Wettbewerb um den Posten des Chefs der Goblins Inc. muss der beste Riesenroboter des Verderbens gebaut werden und zus\u00e4tzlich muss sich dieser im Duell beweisen!",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 - 60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49984b83614ea472a9ddb\/3fd373752013065ce4ce3c96a7dd412d\/photo.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Spyrium",
+      "description": "In England wird ein neues Metall entdeckt: Spyrium. Schnell revolutioniert es die Industrie. Welcher Spieler kann davon am meisten profitieren? \\nEine alternative Welt: England im Steampunk-Universum. Die Spieler bauen Fabriken\\, die neben Arbeitern zum Bewirtschaften auch einen uns unbekannten Rohstoff namens Spyrium ben\u00f6tigen. Diesen gilt es\\, in der einen Fabrik zu produzieren und dann in der n\u00e4chsten zu verarbeiten. Das Resultat bringt Siegpunkte f\u00fcr den jeweiligen Spieler. Alternativ kann Spyrium auch gekauft werden\\, doch Spyrium ist selten und teuer und so herrscht ein steter Mangel an Geld. Nur wer es von Anfang an schafft\\, sein regelm\u00e4\u00dfiges Einkommen dauerhaft zu\\nerh\u00f6hen oder eingesetzte Arbeiter immer wieder zu nutzen\\, um Geld einzutreiben\\, wird die M\u00f6glichkeit und die Flexibilit\u00e4t erlangen\\, gegen Ende des Spiels wichtige\\nGeb\u00e4ude zu errichten und viele Siegpunkte zu generieren. Der Rundenablauf ist flexibel\\, da jeder Spieler f\u00fcr sich selbst entscheiden kann\\, wann er aus der Einsetzphase in die Aktivierungsphase wechselt. Wie die beiden Titel schon\\naussagen\\, werden in der einen Phase Arbeiter in der Auslage eingesetzt\\, in der anderen k\u00f6nnen die Arbeiter dann genutzt werden\\, um Geld einzutreiben\\, eine angrenzende Karte zu erwerben oder um in einer eigenen\\, noch ungenutzten Fabrik zu arbeiten. Alle diese Dinge sind wichtig\\, doch wird am Ende nur der Spieler siegen\\, der mit dem Mangel an Geld\\, Spyrium und Arbeitern am besten umgegangen ist.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 - 90 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f499a653ef7a4055f218df\/fb8f89f904572bf937a1aa9fba42856a\/photo.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Alexandros",
+      "description": "Alexandros\\, besser bekannt als Alexander der Gro\u00dfe\\, f\u00fchrte um 333 vor Christus ein gro\u00dfes Imperium an. Von Makedonien aus zog es ihn bis nach Persien\\, wo er sich neue Gebiete untertan machte. Im Spiel Alexandros begleiten wir ihn auf seinem Weg Richtung Osten\\, gr\u00fcnden bzw. besetzen Provinzen und heben dort Steuern ein. Wer wird reichster Spieler und somit Thronfolger von Alexandros?\\n",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 Min",
+      "year": "2003",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49a24e95382741e42ee6d\/5e5524898338da6efe6a8daeae3ff625\/photo.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Draco",
+      "description": "Draco entf\u00fchrt uns in graue Vorzeit\\, als es noch jede Menge Drachen gab. Anders als die Ritter wollen wir die Drachen jedoch nicht t\u00f6ten\\, sondern f\u00fcr unsere Zwecke nutzen. Unsere Verwendung? Als Reittiere!\\nZehn Drachen sind es\\, die die Rennstrecke vom Start auf den Berg hinauf in Angriff nehmen. Den Spielern ist anfangs ein Drache zugelost\\, auf dem sie sitzen. In den allerseltensten F\u00e4llen wird das aber jener sein\\, auf dem sie sich am Spielende wiederfinden. Es geht n\u00e4mlich keinesfalls darum\\, als Erster im Ziel zu sein\\, sondern darum die meisten Punkte zu sammeln; und das kann man mit allen Drachen.\\n",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49a3e0fc62a40de0609a8\/80accf2a20d7ad81e69851925982c423\/photo.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Asgards Chosen",
+      "description": "\\n\\nIt is the end of the Bronze Age! A new era begins. Only recently have you discovered how to extract iron from the ore in the peat bogs\\, and it\u0027s best to use your new discovery before others use it against you. As a Teutonic lord\\, your duty is to ensure your family line is preserved and that your land prospers and grows. Of course\\, every other lord seems to be thinking the same thing. The gods grant favors both to control creatures and to aid your goals. Make the proper sacrifices to the \u00c6sir to appease their whims\\, and you will win the game.\\n\\nIn Asgard\u0027s Chosen\\, you build armies to achieve the desires of the gods. Each god has a request and will help you to gain ground. You use the favor of the gods to aid your cause\\, and in return you appease their desires. In order to win you will need to appease the various gods in your deck. Appeasing gods requires dramatic losses to your position or the composition of your deck. When you appease the appropriate number of gods\\, the game ends\\, and whoever has appeased the most gods wins.\\n",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "120 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49a5f890de73d45e738d7\/fb5e9c89c81e8928f059ef687b740b09\/photo.jpg"
+    },
+    {
+      "id": "39",
+      "title": "1969",
+      "description": "1969 Wettflug zum Mond\\nUS-Pr\u00e4sident Kennedy r\u00fcckte das Thema \u0027Der Weltraum und seine Erforschung\u0027 in den Fokus. Im Spiel befinden wir uns nun im Jahr der ersten Mondlandung.\\nDie Spieler schl\u00fcpfen in die Rollen verschiedener Nationen. Zur Wahl stehen u.a. USA\\, Kanada\\, Deutschland\\, UdSSR\\, Frankreich. Sie sorgen nun daf\u00fcr\\, dass ihr Land seinen Astronauten als erstes zum Mond sendet. Dazu geh\u00f6rt es\\, die n\u00f6tigen technischen Voraussetzungen zu schaffen\\, die richtigen Wissenschaftler zu engagieren und Missionen zu erf\u00fcllen. Wer am Ende des Jahres 1969 die meisten Prestige-Punkte sammeln konnte\\, gewinnt.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 Min \/ Spieler",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49abe52e67d3e6c2688a8\/81b6ba4bd8375ae130872eb2a4637f3f\/photo.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Die Pal\u00e4ste von Carrara",
+      "description": "Der K\u00f6nig m\u00f6chte sechs St\u00e4dte in Italien mit prunkvollen Geb\u00e4uden versehen und beauftragt mit diesem Vorhaben die Spieler. Alle Spieler versuchen daher gleichzeitig Baumaterial einzukaufen\\, um damit die Geb\u00e4ude zu errichten.\\n\\nNeues Geld kommt in die eigene Kasse\\, wenn die Spieler den K\u00f6nig zur Besichtigung des Baufortschritts einladen \u2013 Eine Wertung durchf\u00fchren. Hierbei kann er sich entweder eine bestimmte Stadt oder eine bestimmte Geb\u00e4udeart in jeder der sechs St\u00e4dte ansehen.\\n\\nAber nur drei der sechs St\u00e4dte bringen Geld. Die anderen drei St\u00e4dte bringen den Spielern bei einer Wertung direkt Siegpunkte ein.\\n\\nDa bei Spielende der Spieler mit den meisten Siegpunkten gewinnt\\, aber der Bau von Geb\u00e4uden Geld kostet\\, ist eine taktisch geschickte Verkn\u00fcpfung von Geld- und Siegpunktwertungen das Ziel der Spieler.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49aff2ae3448c3434acc6\/f864a895608d495c50f87304d01443f1\/photo.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Risiko Original",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "1975",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49b2de964d7addf20b58e\/ffa9348afbd11d3f7f9770c002d9c44f\/photo.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Der Markt von Alturien",
+      "description": "Auf dem mittelalterlichen Marktplatz von Alturien geht es hei\u00df her: bis zu sechs konkurrierende Handelsfamilien liefern sich hier einen unerbittlichen Kampf um Einfluss und Macht. Auf dem warenreichen Markt tummeln sich sieben unterschiedlich betuchte Kunden\\, die sowohl \u00fcber Wohlstand als auch Armut der H\u00e4ndler entscheiden. Welcher der Sieben Dein Handelshaus besucht\\, liegt in Deiner Hand und der Deiner H\u00e4ndlerkollegen. Mit den Einnahmen er\u00f6ffnest Du neue Handelsh\u00e4user und vergr\u00f6\u00dferst Dein Unternehmen. Doch aufgepasst\\, unter den Kunden befindet sich einer\\, der im Schutz des Zwielichts bei den Reichen stiehlt und es den \u00c4rmeren gibt. Der H\u00e4ndler\\, der es als erster schafft\\, zu gro\u00dfem Reichtum und drei Prestigeobjekten zu kommen\\, wird in den Adelsstand erhoben und hat gewonnen. - Das Spiel enth\u00e4lt eine Erweiterung\\, die es den Spielern erm\u00f6glicht\\, noch mehr Einfluss auf das Spielgeschehen zu nehmen. ",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49b6dd041e61cbc47120e\/6e0664308f1600cbafe11de5bc0a38d5\/photo.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Rapa Nui",
+      "description": "Tauchen Sie ein in eine geheimnisvolle Kultur am anderen Ende der Welt - Rapa Nui\\, die Osterinsel! Werden Sie zum m\u00e4chtigen Stammesh\u00e4uptling und entscheiden Sie\\, welche wichtige Person Ihr Dorf als n\u00e4chstes verst\u00e4rken soll - Holzf\u00e4ller\\, Priester oder J\u00e4ger \u0026 Sammler? Oder wollen Sie lieber eine der imposanten und besonders wertvollen Steinstatuen errichten? Raffiniert und neuartig: Wird eine Karte aus der allgemeinen Auslage genommen\\, so wird die darunterliegende Kartenart gewertet - gemeinerweise aber bei allen Spielern! Nur wer die richtigen Entscheidungen trifft und dazu noch ein wenig von den G\u00f6ttern beg\u00fcnstigt wird\\, kann seinem Stamm zu ewigem Ruhm verhelfen. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "40 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49b9c8cf43002d6278545\/26efbcab9d6fba366669c207eaa1edae\/photo.jpg"
+    },
+    {
+      "id": "44",
+      "title": "7 Wonders - Leaders",
+      "description": "Du magst das Spiel 7 Wonders und suchst eine neue Herausforderung? Dann solltest du einen Blick auf die 7 Wonders Erweiterung \u201eLeaders\u201c werfen. In Leaders kannst du nun ber\u00fchmte Pers\u00f6nlichkeiten an die Spitze deiner eigenen Stadt setzen und zugleich gegen andere Ber\u00fchmtheiten antreten. Ob nun C\u00e4sar\\, Platon\\, Cleopatra oder eine(r) der zahlreichen anderen Anf\u00fchrer(innen)\\, jede Pers\u00f6nlichkeit bringt ihre eigenen F\u00e4higkeiten mit ins Spiel.\\n\\nDes Weiteren enth\u00e4lt die Leaders-Erweiterung einen neuen Weltwunder-Plan\\, der die Stadt Rom und das Kolosseum darstellt. Und auch neue Gilden warten auf die flei\u00dfigen Stadthalter.\\n",
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "40 Min",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49bc244864ce2c0dbbd90\/c12178f8571278b557c4ce610ba30b4c\/photo.jpg"
+    },
+    {
+      "id": "45",
+      "title": "Geheime Welt Idh\u00fan",
+      "description": "Der Drache und das Einhorn sind gekommen\\, um sich der Tyrannei Ashrans und des schwarzen Magiers zu widersetzen. \u00dcbernehmen Sie die Rollen eines der Helden aus den B\u00fcchern. Jack\\, Victoria\\, Kirtash\\, Aslan\\, Shail und Kitara - die Ashran und die Shreks im Kampf vernichten wollen. Bereisen Sie Idh\u00fan und stellen Sie sich den Herausforderungen\\, die Ihnen auf Ihrem Weg begegnen. Erweitern Sie ihre Fertigkeiten\\, denn Sie werden in der entscheidenden Schlacht ben\u00f6tigt\\, um den Sieg \u00fcber Ashran und den Schwarzmagier zur erringen. Befreien Sie \u0027Die geheime Welt Idh\u00fan\u0027!",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "30 - 60 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49d0cc803afea2f0d440d\/ee5290b7cea1faeee0e372c86b35ed20\/photo.jpg"
+    },
+    {
+      "id": "46",
+      "title": "Yunnan",
+      "description": "YUNNAN. Heimat des k\u00f6stlichen Pu\u00b4er Tees. Seit \u00fcber 1000 Jahren liefern die Tee-Dynastien mit ihren Pferdekarawanen die begehrte Ware bis ins entfernte Tibet. Durch die Urw\u00e4lder Yunnans\\, \u00fcber die Steppen von Sichuan bis \u00fcber die Gipfel des Himalayas verl\u00e4uft das Netz der Wege und Pfade der Tea-Horse Road\\, der traditionellen Reiseroute der Teeh\u00e4ndler.\\nIn YUNNAN leiten die Spieler die Geschicke ihrer Tee-Dynastie. Es gilt die Nase vorn zu haben und ein ebenso weites wie gesichertes Handelsnetz zu errichten\\, um die Ware bis in die fernsten Provinzen zu liefern. Schon im heimischen Pu\u00b4er stellen sich die Weichen f\u00fcr ein lukratives Gesch\u00e4ft: Neue H\u00e4ndler m\u00fcssen ausgebildet\\, bessere Pferde beschafft und ausreichend Passierscheine f\u00fcr die Provinzgrenzen beantragt werden.\\nDoch durch Handel allein schl\u00e4gt man noch lange nicht die wachsame Konkurrenz aus dem Feld. Es bedarf zus\u00e4tzlich eines guten gesellschaftlichen Einflusses und der Bau eines exklusiven Teehauses ist hilfreich\\, um den Provinz-Kommissar milde zu stimmen. Neu errichtete Br\u00fccken erm\u00f6glichen Abk\u00fcrzungen und Handelsposten in der Ferne sichern die eigene Route entlang die Tea-Horse Road.\\nYUNNAN ist ideal f\u00fcr Spieler\\, die taktische Aufbauspiele mit Interaktion m\u00f6gen\\, denn die Verzahnung der Spielmechanismen sorgt daf\u00fcr\\, dass laufend alle Spieler am Spielgeschehen beteiligt sind. Die Vielfalt der Handlungsoptionen erm\u00f6glicht immer wieder neue Strategien. Nur wer knallhart kalkuliert\\, gegen den richtigen Gegner zum richtigen Zeitpunkt vorgeht und auf die Aktionen der Mitspieler ad\u00e4quat und schnell reagiert\\, wird aus diesem Spiel ohne Gl\u00fccksfaktor als Gewinner hervorgehen. ",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "90 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49d43b42d79b50e6bdc92\/7a9d78b3728b97e5a129e8e40d0aa3cc\/photo.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Amytis",
+      "description": "Die Spieler schl\u00fcpfen in die Rolle von babylonischen Adligen\\, die f\u00fcr ihren K\u00f6nig Nebukadnezar und seiner Frau Amyitis die h\u00e4ngenden G\u00e4rten errichten sollen.\\n\\nDas Bauland wird dazu bew\u00e4ssert und kostbare Gew\u00e4chse angepflanzt.\\n\\nWer hier das richtige Geschick beweist und sich auch der Unterst\u00fctzung der G\u00f6tter gewiss sein kann\\, der wird aus diesem monumentalen Bauprojekt mit dem meisten Ansehen hervorgehen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 - 120 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49d7fa4ea9930a06f9442\/667cda712ef75f8e9cc47f460461ab69\/photo.jpg"
+    },
+    {
+      "id": "48",
+      "title": "Entdecker",
+      "description": "Einige mutige Seefahrer wagen sich in unbekannte Gew\u00e4sser um Reichtum und Ehre zu finden. Doch nicht immer meint es das Schicksal gut mit ihnen - finstere Gesellen und Unwetter brechen immer wieder \u00fcber sie herein!\\n\\nAm Beginn jeder Runde wird man mit frischem Gold beliefert. Dieses Gold braucht man\\, um neue Pl\u00e4ttchen aufzudecken\\, Einheiten abzusetzen und \u00e4hnliches. W\u00e4hrend des Spieles entdeckt man die Karte. Dazu stellt man sein Schiff auf einen beliebigen\\, bereits entdeckten Punkt. Von dort aus legt man gezogene Pl\u00e4ttchen mit Insel- und Meeresesteilen aneinander.\\n\\nWer mutig ist\\, kann Pl\u00e4ttchen mit Fragezeichen ziehen. Sie k\u00f6nnen zus\u00e4tzliche Siegpunkte bringen\\, aber es k\u00f6nnen auch feindliche Ureinwohner und St\u00fcrme auf den Plan gerufen werden.\\n\\nWenn ein Spieler die K\u00fcste einer neuen Insel entdeckt\\, so kann er Kundschafter entsenden\\, Forts bauen oder Siedlungen gr\u00fcnden. Diese Spielfiguren bringen 1-3 Einflusspunkte bei den Wertungen. Sobald eine Insel vollkommen erforscht wurde\\, wird eine Wertungsrunde durchgef\u00fchrt. Wer am einflussreichsten auf einer Insel vertreten ist\\, erh\u00e4lt die meisten Punkte. Man kann zus\u00e4tzliche Punkte erreichen\\, wenn man auf der neuen Insel z.B. Kartoffeln oder Tomaten\\, damals in der alten Welt ja noch unbekannte Nahrungsquellen\\, findet.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": "1996",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49e1d0125f9a9e630de93\/be5a529713d0ac5e516b262dca16e07b\/photo.jpg"
+    },
+    {
+      "id": "49",
+      "title": "Schlossgarten",
+      "description": "Ein Garten aus l\u00e4ngst vergangenen Tagen\\, umgeben von einer mit Efeu \u00fcberwucherten Mauer\\, zug\u00e4nglich nur durch vier schmiedeeiserne Tore\\, wartet darauf\\, von Ihnen entdeckt zu werden. Doch leider sind Sie nicht alleine: andere K\u00f6nige haben den Garten auch entdeckt. Jeder versucht nun\\, begleitet von je einem G\u00e4rtner und einem Baumeister\\, den Garten nach seiner Vorstellung einzurichten. Kleine Reibereien und Ungereimtheiten in der Gartengestaltung lassen sich da leider nicht vermeiden.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49e721418f751db94517d\/23c755f31cf6eba719e3a772ba11a0d5\/photo.jpg"
+    },
+    {
+      "id": "50",
+      "title": "Risiko Starcraft",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49ed45bc7c04198bfdd1f\/c87f4f3b7467c8482c7a66126385925e\/photo.jpg"
+    },
+    {
+      "id": "51",
+      "title": "Risiko f\u00fcr Erwachsene",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": null,
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49f08c1d61fbdaf69ac50\/7acd84552e50b0a8fc0e2e97be1f784f\/photo.jpg"
+    },
+    {
+      "id": "52",
+      "title": "8 Masters Revenge",
+      "description": null,
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "15 - 45 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a285a8a0c9b51a2aa7bd\/239790afdf256f5e00b4033466f5619a\/photo.jpg"
+    },
+    {
+      "id": "53",
+      "title": "Heroes of the World",
+      "description": "Bei \u0027Heroes of the World\u0027 schl\u00fcpfen die Spieler nicht in die Rolle einer ber\u00fchmten Pers\u00f6nlichkeit der Zeitgeschichte\\, sondern gleich in die von 76 verschiedenen Personen.\\n\\nIn zwei Zeitaltern m\u00fcssen sie bestimmte Gebiete der Erde nicht nur milit\u00e4risch unter ihre Kontrolle bringen\\, sondern auch kulturell zur Bl\u00fcte f\u00fchren.\\n\\nWer hier die beste Balance aus der Macht des Schwertes und der Feder findet\\, der wird als ber\u00fchmteste Person in die Geschichte eingehen.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "75 Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a2f4b3d8f8b4cd70259e\/653dfcc8ca0e557f04a4d4d2cd5e1cdd\/photo.jpg"
+    },
+    {
+      "id": "54",
+      "title": "Dominion",
+      "description": "Alle Spieler sind Herrscher eines K\u00f6nigreiches und starten mit ein wenig Geld und L\u00e4ndereien. Im Laufe des Spiels erhalten die Spieler die M\u00f6glichkeit\\, ihr Reich in den drei Kategorien Geld\\, Aktionsm\u00f6glichkeiten (K\u00f6nigreichkarten) und L\u00e4ndereien auszubauen. Geld und Aktionsm\u00f6glichkeiten erweitern die Optionen in den folgenden Runden. In der Siegwertung am Schluss z\u00e4hlen aber nur die L\u00e4ndereien.\\n\\nDominion war das erste Spiel\\, das mit der Deck-Building-Mechanik im deutschen Sprachraum ein breites Publikum erreichen konnte. Geld\\, Aktionsm\u00f6glichkeiten und L\u00e4ndereien werden also durch Karten repr\u00e4sentiert. Der Spieler zieht Karten vom eigenen Stapel und setzt die aktiven Karten auf der Hand ein\\, um neue Karten zu erwerben. Sowohl erworbene\\, wie eingesetzte Karten kommen auf den eigenen Ablagestapel des Spielers. Wenn der Nachziehstapel des Spielers aufgebraucht ist\\, mischt er seinen Ablagestapel und er wird sein neuer Nachziehstapel so dass die Karten erneut zur Verf\u00fcgung stehen. Jede erworbene Karte baut also den Stapel des Spielers auf (deck building). Da alle Karten bis zum Spielende immer wieder aufgedeckt werden\\, ist es wichtig wertvolle Karten ins Deck aufzunehmen\\, und es kann interessant sein\\, geringwertige Karten\\, die am Anfang die einzig verf\u00fcgbaren waren\\, im Laufe des Spieles zu entsorgen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a3201445cc4071d798d1\/6a9aa11bef96f8e885553393d8c223c4\/photo.jpg"
+    },
+    {
+      "id": "55",
+      "title": "Dominion - Die Intrige!",
+      "description": "Bei Dominion Die Intrige handelt es sich um keine Erweiterung im eigentlichen Sinne\\, sondern ein eigenst\u00e4ndiges Grundspiel\\, das auch alle Basiskarten des Basisspiel beinhaltet und also ohne dieses spielbar ist. Wenn man die Die Intrige allerdings mit dem Basisspiel kombiniert\\, ist durch die doppelte Anzahl Basiskarten das Spielen mit bis zu sechs Spielern geregelt.\\nDie 25 K\u00f6nigreichkarten sind andere als im Basisspiel. In der Intrige kommen zum ersten Mal Karten mit kombinierten Haupttypen vor: Es gibt Aktions-Punktekarten und Geld-Punktekarten\\, die anders als reine Punktekarten in der Aktionsphase bzw. Kaufphase genutzt werden k\u00f6nnen. Mehrere Aktionskarten bieten dem Spieler die M\u00f6glichkeit\\, sich f\u00fcr unterschiedliche Funktionen der jeweiligen Karte zu entscheiden. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a347671815fc6d1a23d5\/c020d255ce355e1e558731364bdfd5cc\/photo.jpg"
+    },
+    {
+      "id": "56",
+      "title": "Br\u00fcgge",
+      "description": "Br\u00fcgge im 15. Jahrhundert. Die belgische Hansestadt gilt als eine der wohlhabendsten in Europa. Genau hier hin verschl\u00e4gt es die Spieler im gleichnamigen Brettspiel Br\u00fcgge. In der Rolle eines angesehenen Kaufmanns muss jeder Spieler seine Macht kontinuierlich ausbauben. Dabei gilt es die eigene Beziehung zu den M\u00e4chtigen und Reichen zu Pflegen\\, die Stadt auszubauen und Bedrohungen abzuwehren.\\nIn jeder Spielrunde erhalten die Spieler zun\u00e4chst Handkarten. Dann wird gew\u00fcrfelt. Die W\u00fcrfelaugen entscheiden dar\u00fcber\\, welchen Bedrohungen die Spieler ausgesetzt werden und wie viele Gulden der Aufstieg auf der Ratsleiste kostet. Anschlie\u00dfend k\u00f6nnen die Spieler ihre Handkarten ausspielen und so verschiedene Aktionen aus\u00fcben. Beispielweise k\u00f6nnen Kanalarbeiten durchgef\u00fchrt\\, H\u00e4user errichtet oder Bedrohungen abgewendet werden. Am Ende jeder Runde wird gepr\u00fcft\\, welche Spieler \u00fcber Mehrheiten im Rat\\, beim Stadtausbau oder bei den Personen verf\u00fcgen. Hierf\u00fcr erhalten die Spieler Siegpunkte.\\nAm Ende des Spiels gewinnt der Spieler\\, der insgesamt die meisten Siegpunkte sammeln konnte.\\n",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a376094c552e9dd030e5\/5cf39c2c1d09b3341a7009fc92211a1b\/photo.jpg"
+    },
+    {
+      "id": "57",
+      "title": "Ghost Stories",
+      "description": "Der grausame Wu-Feng\\, Herr der neun H\u00f6llen\\, wurde schon vor langer Zeit unter gro\u00dfen Verlusten geschlagen. Die Urne mit seiner Asche wurde auf dem Friedhof eines kleinen Dorfes verborgen. Doch der grausame Herrscher forschte aus dem Schattenreich heraus seit Jahrhunderten danach\\, und jetzt hat er das Dorf ausfindig gemacht. Das ist der Startschuss f\u00fcr seine Geisterarmeen\\, die Stadt zu \u00fcbernehmen und die Urne zu finden.\\n\\nVon den Lebenden sind sich nur wenige der Gefahr bewusst\\, die meisten haben Wu-Feng l\u00e4ngst vergessen. Nur nicht die Taoistischen Geisterj\u00e4ger (=Spieler)\\, die die Tore ins Jenseits bewachen. Sie stellen sich dem Kampf gegen Wu-Feng und seine Geisterheerscharen.",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a39a9112dde961bff6d5\/28a934dd618d9460a05c075fe82d5244\/photo.jpg"
+    },
+    {
+      "id": "58",
+      "title": "Khan",
+      "description": "Der Auftrag des Gro\u00dfen Kahn ist eindeutig \u0027Das mongolische Reich muss gr\u00f6\u00dfer werden\u0027.\\n\\nAls Gener\u00e4le des Gro\u00dfen Khan versuchen die Spieler m\u00f6glichst den gr\u00f6\u00dften Beitrag zur Erweiterung des mongolischen Reiches zu leisten.\\n\\nSie vertreiben die in den \u00fcberfallenden Gebieten ans\u00e4ssigen Herrscher\\, zeigen ihre Kontrolle \u00fcber das neue Land durch den Aufbau eigener Jurten und versuchen m\u00f6glichst gro\u00dfe zusammenh\u00e4ngende Gebiete unter ihre eigene Kontrolle zu bringen..",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a3af5e96e18cd04e3288\/6fbb7bf15a2ae1381a2402dfba1d65b0\/photo.jpg"
+    },
+    {
+      "id": "59",
+      "title": "Terry Pratchett - The Witches",
+      "description": "The Witches: A Discworld Game is the second of three games by Martin Wallace set in Terry Pratchett\u0027s Discworld\\, the first being Discworld: Ankh-Morpork.\\n\\nThe Witches is set in the magically charged land of Lancre. Players take on the role of trainee witches\\, such as Tiffany Aching and Petulia Gristle\\, learning their craft and dealing with all the problems\\, both petty and serious\\, that life on Discworld can throw at them. A subtle blend of headology\\, magic and\\, of course\\, the all-important cup of tea will see our heroines tackle everything from a sick pig to a full-blown invasion of elves. Each player tries to be better at everything than the others\\, while also cooperating to prevent crises from escalating.\\n\\nLife can be tough for a young witch in Lancre. Fear not\\, however\\, as some of Terry Pratchett\u0027s most famous characters will be on hand to aid your quest. Along the way you\u0027ll meet Granny Weatherwax\\, Nanny Ogg and Magrat Garlick\\, as well as a rich supporting cast of familiar faces from the Discworld series. When things get really tough and you feel you are turning \u0027Black Aliss\u0027\\, you can always have a cup of tea with one of your fellow witches.\\n\\nThe Witches can be played competitively\\, cooperatively\\, or solo.\\n",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "90 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a3d377c8985e028c7542\/dbc6405f665bde521334baaae8a01caf\/photo.jpg"
+    },
+    {
+      "id": "60",
+      "title": "Die verbotene Insel",
+      "description": "Nur als Team k\u00f6nnen die Spieler die verborgenen Artefakte finden. Dabei hei\u00dft es\\, sich zu beeilen\\, clever die F\u00e4higkeiten aller Abenteurer zu nutzen und die Nerven zu behalten. Denn das Wasser steigt\\, und die Insel versinkt in den Fluten. Immer mehr Inselfelder verschwinden unter den Wassermassen\\, und der Platz wird enger und enger. DIE VERBOTENE INSEL\\, ein \u00fcberaus spannendes Spiel\\, bei dem es gilt\\, gemeinsam die Taktik zu bestimmen und mit etwas Gl\u00fcck und viel Geschick den Erfolg zu erzwingen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a409636e4e3fdb35b643\/bf113486734cb2cdfad8482ac1cfd118\/photo.jpg"
+    },
+    {
+      "id": "61",
+      "title": "Der Herr der Ringe",
+      "description": "Vier verschiedene\\, der Tolkien\u0027schen Dramaturgie folgenden Spielpl\u00e4ne geben den Spielern das Gef\u00fchl\\, immer wieder neuen Abenteuern\\, Gefahren und Herausforderungen entgegenzugehen. Der Weg f\u00fchrt vom Auenland \u00fcber die Trollh\u00f6hen durchs Nebelgebirge schlie\u00dflich ins Land Mordor. Auch im Spiel ist die beherrschende Frage: Siegt am Ende die Gemeinschaft oder etwa doch der Dunkle Herrscher? ",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "60 - 90 Min",
+      "year": "2000",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a6785ffc7d7c99d5c804\/3ea82dc109e2d44037f1c0b3bdb307e9\/photo.jpg"
+    },
+    {
+      "id": "62",
+      "title": "Risiko Original",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a6b6c9b33be36494affd\/d10cf27c3d28885937f3904a7203fabe\/photo.jpg"
+    },
+    {
+      "id": "63",
+      "title": "Senji",
+      "description": "\u0027Senji\u0027 versetzt die Spieler mehrere hundert Jahre in der Zeit zur\u00fcck\\, in ein Japan welches noch vom Shogun regiert wurde.\\n\\nDa der jetzige Shogun schon sehr alt ist und ein Nachfolger aus seiner Familie nicht in Sicht ist\\, streiten die Spieler an seiner Stelle um die Nachfolge im Land.\\n\\nAlle Spieler versuchen durch Diplomatie\\, Wirtschaft und Milit\u00e4r ihre Position zu festigen\\, um dann als ehrenvollster Spieler die Nachfolge des Shoguns anzutreten.",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "90 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a7534c8b2c69fdc4867d\/bc1fe435a8ce366c27e4acc4a23dfa24\/photo.jpg"
+    },
+    {
+      "id": "64",
+      "title": "Bushido",
+      "description": "Japan 1565\\, die Sengoki Zeit geht ihrem Ende entgegen. Der letzte Shogun des Ashikaga Clans ist schwach und unentschlossen. Hilflos sieht er zu wie machthungrige Provinzf\u00fcrsten das fruchtbare Inselreich ausbluten lassen. Soll Japan nicht in Anarchie und Chaos versinken muss der Kaiser binnen 12 Monaten einen neuen Shogun ernennen. Einen F\u00fcrsten mit der Kraft das Reich zu einen. Einen Mann der dem Volk Hoffnung gibt. Einen Anf\u00fchrer der dem Bushido\\, dem Weg des Kriegers\\, folgt ... aufrichtig\\, ehrenhaft\\, mutig\\, g\u00fctig\\, aber auch treu\\, h\u00f6flich und ehrlich. Aber ist es am Ende dann nicht doch allein der Sieg der z\u00e4hlt? Ist dem ruchlosen Sieg tats\u00e4chlich eine ehrenhafte Niederlage vorzuziehen? In wechselnden Rollen als Daimyo\\, Samurai\\, Bushi\\, Sensei oder Hatamoto lenken die Spieler bei \u201eBushido\u201c die Geschicke des feudalen Japans und versuchen sich auf dem schmalen Pfad zwischen Macht und Ehre gegen ihre Mitspieler zu behaupten. Der ganz besondere Reiz des Spiels liegt dabei in der komplexen\\, wechselseitigen Abh\u00e4ngigkeit des Daimyos und seines jeweiligen Samurai. \u201eBushido\\, der Weg des Kriegers\u201c ist kein Eroberungsspiel im herk\u00f6mmlichen Sinn. Wichtiger als Landgewinn und siegreiche Schlachten sind Loyalit\u00e4t\\, Tradition und Ehre. M\u00f6ge im Land der aufgehenden Sonne die Ehre niemals in Vergessenheit geraten... ",
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "60 - 120 Min",
+      "year": "2008",
+      "image": null
+    },
+    {
+      "id": "65",
+      "title": "Der Hobbit",
+      "description": "Im Spiel zum ersten Film Der Hobbit-Trilogie spielen die Spieler gemeinsam den Verlauf des Films nach.\\n\\nDabei schl\u00fcpft jeder Spieler in die Rolle von zwei Zwergen\\, welche im Auenland zusammen mit dem Hobbit Bilbo aufbrechen\\, die Trollh\u00f6hen durchstreifen\\, durchs Bruchtal reisen\\, im Nebelgebirge Abenteuer bestehen und den Carrock erreichen.\\n\\nZiel des Spiels ist es\\, dass alle Spieler je einen ihrer Zwerge und Bilbo durch alle Abenteuer und Gefahren wie Trolle\\, Goblins und Warge auf das Zielfeld des Spielplans bringen.\\n\\nBei ihren Abenteuern steht ihn zum Gl\u00fcck Gandalf der Zauberer zur Stelle\\, wenn er sich im gleichen Gebiet wie die Zwerge aufhalten sollte.\\n\\nNeben all den bekannten Gefahren gibt es noch eine weitere \u2013 Orks durchstreifen das Land und nehmen allzu schnelle Zwerge oder Hobbits gern mal gefangen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a7a5996c14aa4cdd44a3\/d0a9fcb88412f8334cd52dc712f7bd93\/photo.jpg"
+    },
+    {
+      "id": "66",
+      "title": "Saint Malo",
+      "description": "Jeder Spieler erh\u00e4lt seinen eigenen - abwischbaren! - Spielplan\\, der die zun\u00e4chst noch fast leere Stadt Saint Malo zeigt. Wer an der Reihe ist\\, w\u00fcrfelt bis zu dreimal und kann danach mit seinem Stift entsprechend dem W\u00fcrfelwurf Stadtmauern\\, Geb\u00e4ude oder auch Personen in seinen Stadtplan einzeichnen\\, um so m\u00f6glichst viele Siegpunkte zu erzielen. Dabei k\u00f6nnen ganz verschiedene Strategien verfolgt werden. Setzt der eine beispielsweise auf eine gute Verteidigung gegen die angreifenden Piraten\\, versucht sich ein anderer am eintr\u00e4glichen Warenhandel. Ein Dritter wiederum bem\u00fcht sich vorwiegend um den Klerus ... Ist mindestens eine Stadt voll\\, wird abgerechnet\\, der Spieler mit den meisten Siegpunkten gewinnt. Danach k\u00f6nnen die Pl\u00e4ne mit einem trockenen Tuch abgewischt werden - und sofort kann eine zweite Partie folgen ... ",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "60 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a8655e96e18cd04e6c0f\/bbaa772b8228f9215ffe89c32f3a7cb2\/photo.jpg"
+    },
+    {
+      "id": "67",
+      "title": "Mondo",
+      "description": "In Mondo nehmen die Spieler die Z\u00fcgel in die Hand und bauen im wahrsten Sinn des Wortes ihre eigene kleine Welt auf. Hierbei hat man die Mitspieler und die Zeit im Auge\\, versucht m\u00f6glichst viele Tiere zu verwenden und viele kleinere Landschaften zu bauen und abzuschlie\u00dfen. Wer nach drei Spielrunden die meisten Punkte hat gewinnt.",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a9da6f7da816c0c88256\/8e4e5cf7c80198e12285363dbda527b0\/trello286511599.jpg"
+    },
+    {
+      "id": "68",
+      "title": "Mondo Sapiens",
+      "description": "Mit Mondo Sapiens erscheint ein eigenst\u00e4ndiges neues Legespiel\\, in dem  es nicht mehr nur um Tiere\\, sondern um Menschen\\, T\u00e4tigkeiten\\, Berufe und Stra\u00dfen geht.Es kann als Fortsetzung zum \u0027klassischen\u0027 Mondo gesehen werden und sowohl im Anschluss an dieses als auch eigenst\u00e4ndig gespielt werden. ",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a9f4a4c1c6ea6ce3b4a3\/419bb8c3a340f4c690bf567817aacfa2\/trello816722399.jpg"
+    },
+    {
+      "id": "69",
+      "title": "Intrigo",
+      "description": "Als Oberhaupt einer der einflussreichsten Familien von Venedig m\u00fcssen Sie alles unternehmen\\, um die Zustimmung der verschiedenen Gilden der Serenissima zu erwerben. Im Schutze der Dunkelheit m\u00fcssen Sie unter den Arkaden des Dogenpalastes B\u00fcndnisse eingehen und Ihre Konkurrenz ausboten um der neue Doge der Stadt zu werden. Ihre Waffen sind Verschw\u00f6rung\\, Intrigen und Verrat. ",
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "40 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ace3d0f09b9f651e6a11\/caf3e84ff339331128b23b02933fecf3\/photo.jpg"
+    },
+    {
+      "id": "70",
+      "title": "Die Siedler von Catan - Entdecker \u0026 Piraten",
+      "description": "Die Erweiterung \u201eEntdecker und Piraten\u201c basiert auf den Grundregeln von \u201eCatan \u2013 Das Spiel\u201c\\, enth\u00e4lt dar\u00fcber hinaus aber einige neue Spielmechanismen. Beispielsweise werden Schiffe nun f\u00fcr Expeditionen ausger\u00fcstet und k\u00f6nnen frei beweglich \u00fcber den Plan gezogen werden. In den Schiffen transportieren Sie Siedler\\, Einheiten\\, Fische oder Gew\u00fcrze \u00fcber die Meere. Ihr Ziel wird es sein\\, neue St\u00fctzpunkte auf den noch unentdeckten Inseln zu errichten und dabei m\u00f6glichst geschickt die Auftr\u00e4ge des catanischen Rates zu erf\u00fcllen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 - 120 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4af73d8606e3d5ab0d39e\/4b26517b76b4344f2404662f13f2414c\/photo.jpg"
+    },
+    {
+      "id": "71",
+      "title": "Starquest",
+      "description": "In StarQuest treten ein bis drei Space Marine Crack-Squads der Galaxy Safe Guard (Adeptus Astartes) gegen einen Spielleiter an\\, der die Robotlings (Aliens) befehligt. Das Ziel der Galaxy Safe Guard ist es\\, ein menschliches Raumschiffwrack (Space-Hulk) von Au\u00dferirdischen\\, Robotern und Chaos Space Marines zu s\u00e4ubern.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b5da33534d820e47663a\/df552df8f73b692e1a8d23462878f54c\/photo.jpg"
+    },
+    {
+      "id": "72",
+      "title": "Inkognito",
+      "description": "Vier hochkar\u00e4tige Meisterspione tauchen unter im Maskentrubel von Venedig. Einer davon bist du. Und du wei\u00dft genau: Bevor du den Inhalt deiner geheimen Mission erf\u00e4hrst\\, musst du zun\u00e4chst herausfinden\\, wer von den anderen dein Partner ist. Aber wer ist wer? Und wer ist wo? Freund oder Feind \u2013 das ist die Frage. Denn die beiden Anderen lauern nur darauf\\, dass du oder dein Partner sich zu erkennen gibt. Dann schlagen sie zu und bringen dich um den wohl verdienten Erfolg. Sei also sparsam mit Hinweisen! Trag Indiz um Indiz zusammen. Und h\u00fcte dich vor falschen F\u00e4hrten und t\u00f6dlichen Fallen. Nur so kannst du der gerechten Sache zum Sieg verhelfen... ",
+      "players_min": "3",
+      "players_max": "4",
+      "duration": null,
+      "year": "1988",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b6307ae8964ea93c3436\/ce4346b8139a9079a2ad4a0c510bbbf3\/photo.jpg"
+    },
+    {
+      "id": "73",
+      "title": "Jerusalem",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 Min",
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11906b4f870174feb7097c\/38401f12b3944767fca4234c98d5f492\/trello1893583048.jpg"
+    },
+    {
+      "id": "74",
+      "title": "Sylla",
+      "description": null,
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "60 - 90",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1190c81bf62fe1f69b55e8\/3ebc2504eb76fbf825d0d923a4b15fa0\/trello1471112444.jpg"
+    },
+    {
+      "id": "75",
+      "title": "Guards! Guards!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "120 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11916fc3f927009e057c77\/11e716593612b7cb7969b031197e2751\/trello2040657795.jpg"
+    },
+    {
+      "id": "76",
+      "title": "Glen More",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "45 - 70 Min",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11921a43126957404e4735\/fa810ea7b5fff60b2f566ed1dd7b5534\/trello1064217969.jpg"
+    },
+    {
+      "id": "77",
+      "title": "Dominion - Die Gilden",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11931e644c4441166352a5\/3e7f85294b7795de1efaaf17953bb368\/trello2097365333.jpg"
+    },
+    {
+      "id": "78",
+      "title": "Die Legenden von Andor - Der Sternenschild",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 -  90 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11953951fcd9d5fcfea68f\/1a7af6bedf54b2c3d49940b87e3c6b2c\/trello2069134418.jpg"
+    },
+    {
+      "id": "79",
+      "title": "Duell im Felsental",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "20 - 40 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119586ef65fa3d97db641a\/4b2338e4091ae4df87de8c49f2667ed9\/trello16310774.jpg"
+    },
+    {
+      "id": "80",
+      "title": "Kingsburg",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "90 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1196467d1b55ba2c9e787b\/04ae19ac0fd53862e04e9c554cd839e3\/trello1682419244.jpg"
+    },
+    {
+      "id": "81",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1196467d1b55ba2c9e787b\/df2435d8d8ba9f086d7b50df2143d755\/trello15318315.jpg"
+    },
+    {
+      "id": "82",
+      "title": "Alcazar - Auf die H\u00f6he kommt es an",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "60 - 90 Min",
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1196cfbce35bcb94e1af2e\/84885fa3199d29241e407640ceca5e9a\/trello914616466.jpg"
+    },
+    {
+      "id": "83",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1196cfbce35bcb94e1af2e\/a5add1cb730bd3318dfaf921713be3e8\/trello226944874.jpg"
+    },
+    {
+      "id": "84",
+      "title": "Die Siedler von Catan - St\u00e4dte und Ritter",
+      "description": null,
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "120 Min",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119763cfdfe853500b7df9\/d7abd00d25b5f25482b68e47e267f98a\/trello1349188391.jpg"
+    },
+    {
+      "id": "85",
+      "title": "Dungeon Fighter - Fire at will",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1198a09bbada65718b65a6\/3ed866aee861bf5ac9485acef6804a02\/trello493509363.jpg"
+    },
+    {
+      "id": "86",
+      "title": "Kingdom Builder - Nomads",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "45 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119aade81518e9314bb303\/449f8ee26898a2b4d39e319a7c38c97c\/trello233705707.jpg"
+    },
+    {
+      "id": "87",
+      "title": "Mississippi Queen",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "30 - 40 Min",
+      "year": "1997",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a11f04c97983941acbde\/64351b29277b28a73273229cfc4f17b3\/trello1575674554.jpg"
+    },
+    {
+      "id": "88",
+      "title": "Thurn und Taxis",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2006",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a21b5b230e136ddacfb4\/605c5ccdbb215d678b4e3b338cf9b31d\/trello2077933356.jpg"
+    },
+    {
+      "id": "89",
+      "title": "Inkognito - A Carnival of Spies in Venice",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a34ac7df3a2d3b451d9d\/36d49e0ea2133e02619fc98870a9530b\/trello1520169044.jpg"
+    },
+    {
+      "id": "90",
+      "title": "Takenoko",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 - 60 Min",
+      "year": "2014",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11aefaab9976bf1f9824b5\/36f005e55aa12f33968dfa96b5997558\/trello1324650501.jpg"
+    },
+    {
+      "id": "91",
+      "title": "7 Wonders",
+      "description": null,
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11af4ac451bb09182fb5fb\/1e9e34c745eb469f1f4d6389998bfd3d\/trello1074141761.jpg"
+    },
+    {
+      "id": "92",
+      "title": "Seasons",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b576e3aaf16080bae0ab\/c04d63d07e60532c4a5eef9ec792f279\/trello1840657333.jpg"
+    },
+    {
+      "id": "93",
+      "title": "Adel Verpflichtet",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": null,
+      "year": "1990",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b6fcc0d743adf85a5bf8\/2a25956dac86f3dd236e30062ab43cf3\/trello600834194.jpg"
+    },
+    {
+      "id": "94",
+      "title": "Keltis",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b7c37bcf7c3eb449084f\/02148a30994c852df8f556ae75d58ddf\/trello390836269.jpg"
+    },
+    {
+      "id": "95",
+      "title": "Edo",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b85091841e3a072eaace\/cbb9e4f544ad23a0fa0af6d0033e1edb\/trello1251115791.jpg"
+    },
+    {
+      "id": "96",
+      "title": "Cappuccino",
+      "description": "Das H\u00fctchenspiel f\u00fcr Kaffeegenie\u00dfer. Legal\\, ganz ohne Gl\u00fcck\\, daf\u00fcr mit einer Menge Taktik. Aber ohne Kaffeeduft\u2026\\n Der Ablauf des Spiels ist schnell erkl\u00e4rt: Man nimmt eines seiner H\u00fctchen und stellt es auf ein angrenzendes H\u00fctchen; das untenliegende H\u00fctchen ist gefangen\\, ein Turm ist entstanden. T\u00fcrme k\u00f6nnen sich wie einzelne H\u00fctchen bewegen und m\u00fcssen immer in ihrer Gesamtheit bewegt werden. So entstehen immer mehr L\u00fccken in der Spielfl\u00e4che\\, bis sie in mehrere Teile zerf\u00e4llt. Das schr\u00e4nkt die Zugm\u00f6glichkeiten nat\u00fcrlich stark ein.Sind alle Becher bewegungsunf\u00e4hig\\, endet das Spiel und es folgt die Z\u00e4hlung: Jeder stapelt die von ihm kontrollierten T\u00fcrme\\, der Spieler mit dem h\u00f6chsten Gesamtturm hat gewonnen. Hierbei kann es Gleichst\u00e4nde geben\\, die aber nicht aufgel\u00f6st werden; die Spieler teilen sich den Sieg.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "10 - 20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f47f04f0d6d15763452953\/fa71fe401f5043eb90f760e820b9a18e\/photo.jpg"
+    },
+    {
+      "id": "97",
+      "title": "Geistesblitz 2.0",
+      "description": "5 Figuren in 5 Farben stehen auf dem Tisch und in jeder Spielrunde wird eine davon gesucht.\\n\\nWelche der 5 Figuren gesucht wird zeigt ein Foto auf einer Karte. Dieses zeigt immer 2 Figuren und diese in unterschiedlichen Farben.\\n\\nHier kann die Maus auf einmal nicht mehr grau\\, sondern blau oder rot sein. Aber schnappen darf man sich eine Figur nur\\, wenn Abbildung und Farbe stimmen oder wenn weder die Figur noch ihre Farbe abgebildet ist.\\n\\nEine schnelle Auffassungsgabe und Reaktion sind somit gefragt.",
+      "players_min": "2",
+      "players_max": "8",
+      "duration": "20 - 30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f481fbefafd83ffb9e90f9\/31a17f3718cfb88336e277b31a8df1b4\/trello412906950.jpg"
+    },
+    {
+      "id": "98",
+      "title": "Geistesblitz 5 vor 12",
+      "description": "Das beliebte\\, schnelle Reaktionsspiel geht in die n\u00e4chste Runde. Bei Geistesblitz 5 vor 12 handelt es sich \u2013 wie schon bei den Vorg\u00e4ngern \u2013 um ein schnelles Reaktionsspiel\\, bei dem die Spieler dem Hausgeist Balduin ein weiteres Mal dringend helfen m\u00fcssen.\\nReihum wird immer eine Karte aufgedeckt\\, auf der verschiedene Gegenst\u00e4nde und Figuren in unterschiedlichen Farben abgebildet sind. Durch kombinieren bzw. ausschlie\u00dfen von Farben und Figuren auf den aufgedeckten Spielkarten m\u00fcssen die Spieler so schnell wie m\u00f6glich die gesuchte Spielfigur ermitteln und danach schnappen oder rufen.\\nJedes Mal\\, wenn ein Spieler einen richtigen Gegenstand schnappen konnte\\, darf er die dazugeh\u00f6rige Spielkarte behalten. Macht ein Spieler dabei einen Fehler\\, muss er eine zuvor gewonnene Karte wieder abgeben. Wer am Ende des Spiels die meisten Karten sammeln konnte\\, gewinnt das Kartenspiel Geistesblitz 5 vor 12.\\n",
+      "players_min": "2",
+      "players_max": "8",
+      "duration": "20 - 30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4821c15ce2a7391e24d55\/f0708155474be68412b037af788b0640\/photo.jpg"
+    },
+    {
+      "id": "99",
+      "title": "Anno Domini - Gesundheit und Ern\u00e4hrung",
+      "description": "Bei Anno Domini - Gesundheit \u0026 Ern\u00e4hrung m\u00fcssen historische Ereignisse in die chronologisch richtige Reihenfolge gebracht werden; wer zuerst keine Karten mehr hat\\, gewinnt. ",
+      "players_min": "2",
+      "players_max": "8",
+      "duration": null,
+      "year": "2005",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48481f39b05ada19f9f73\/b5556dcd6987dfbed984ea3ef6f51d5c\/trello462976637.jpg"
+    },
+    {
+      "id": "100",
+      "title": "Anno Domini - Natur",
+      "description": "Bei Anno Domini - Natur m\u00fcssen historische Ereignisse in die chronologisch richtige Reihenfolge gebracht werden; wer zuerst keine Karten mehr hat\\, gewinnt. ",
+      "players_min": "2",
+      "players_max": "8",
+      "duration": null,
+      "year": "1998",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f484aabdaeddfcd4237c4b\/cc859854c8b40e5e919d0800e054bf3f\/trello1173565016.jpg"
+    },
+    {
+      "id": "101",
+      "title": "Scrabble",
+      "description": "Der beliebte Spieleklassiker\\, hier in der Spielerei mit den Spielsteinen aus Holz. Reihum m\u00fcssen aus den kleinen Buchstabenfliesen sinnvolle W\u00f6rter gebildet werden. Der Spieler mit dem h\u00f6chsten Wert gewinnt am Schluss.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 45 Min",
+      "year": "1955",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4896f2de5afea100d8a0b\/6360a0722c5c55b895aa99bc597fa36c\/trello472003603.jpg"
+    },
+    {
+      "id": "102",
+      "title": "hattari",
+      "description": "Hattari erfordert Bluff und Deduktion\\, denn es gilt einen T\u00e4ter anhand von Indizien zu identifizieren \u2013 doch jeder Mitspieler hat nur ein begrenztes Wissen \u00fcber die Verd\u00e4chtigen\\, sodass Mutma\u00dfungen \u00fcber das Verhalten der Mitspieler notwendig sind. Hattari ist trotz silhouettenf\u00f6rmiger Figuren ein rein abstraktes Spiel\\, denn jeder Verd\u00e4chtige besitzt als einziges Merkmal einfach nur eine (eindeutige) Ziffer.\\n\\nEin Opfer und drei Verd\u00e4chtige werden verdeckt in die Mitte gelegt. Von den verbleibenden vier Figuren darf sich jeder Spieler zwei R\u00fcckseiten ansehen und somit R\u00fcckschl\u00fcsse auf m\u00f6gliche Kombinationen ziehen. In jeder Runde ist jeder Spieler genau ein Mal am Zug und muss einen der Tatverd\u00e4chtigen mit einem seiner Anklagepl\u00e4ttchen markieren. Zuvor darf er sich zwei der Verd\u00e4chtigen ansehen \u2013 nicht jedoch denjenigen\\, den der vorherige Spieler gerade markiert hat. Der erste Spieler einer Runde darf das Opfer zudem mit einem der Verd\u00e4chtigen tauschen.\\n\\nDanach wird der Fall aufgel\u00f6st: Schuldig ist der Verd\u00e4chtige mit der h\u00f6chsten Nummer \u2013 es sei denn die \u201e5\u201c war verd\u00e4chtig\\, dann z\u00e4hlt stattdessen die niedrigste. Wer mit seiner Anklage richtig lag\\, ist sein Pl\u00e4ttchen los\\, alle anderen erhalten ihre zur\u00fcck. Und zwar umgedreht\\, damit sie sie nicht erneut benutzen k\u00f6nnen. Dabei gilt: Wer einen Unschuldigen als Letzter angeklagt hat\\, muss alle seine Pl\u00e4ttchen nehmen. Hattari endet sobald ein Spieler alle Pl\u00e4ttchen umgedreht oder acht St\u00fcck gesammelt hat. Es gewinnt derjenige mit den wenigsten Markern.",
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "15 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f493fb6598ea381056fd94\/96d1d7e22c3dbc6585f1a3bc1377ef81\/photo.jpg"
+    },
+    {
+      "id": "103",
+      "title": "Rummikub",
+      "description": "Das Ziel des Spieles ist es\\, die 14 Spielsteine\\, die man zu Beginn des Spiels erh\u00e4lt\\, abzulegen. Das Ablegen von Spielsteinen ist\\, genau wie beim \u00e4hnlichen Kartenspiel Romm\u00e9\\, nur in bestimmten Kombinationen m\u00f6glich. Der Spieler\\, der als Erster all seine Spielsteine abgelegt hat\\, ist der Gewinner der Runde. Er erh\u00e4lt den Wert der Summe der nicht abgelegten Spielsteine der anderen Mitspieler als Pluspunkte.\\n\\nEin weiteres Spielziel ist\\, den Wert der nicht abgelegten Spielsteine so gering wie m\u00f6glich zu halten\\, da diese Punkte nach Beenden einer Runde dem jeweiligen Spieler als Minuspunkte aufgeschrieben werden.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": "1986",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49bf8ff084626837e2149\/30bb0505fb54b8eee9948e32c8157a91\/photo.jpg"
+    },
+    {
+      "id": "104",
+      "title": "Ubongo",
+      "description": "Das Prinzip von Ubongo ist eigentlich recht schnell erkl\u00e4rt. Zun\u00e4chst erh\u00e4lt jeder Spieler\\, zwei sollten es mindestens sein\\, besser sind vier\\, einen Satz farbige Legesteine sowie eine Schablonenkarte. Daraufhin bestimmt das Gl\u00fcck in Form des W\u00fcrfels dar\u00fcber\\, welche Legesteine herausgesucht und durch ein anschlie\u00dfendes Drehen und Kombinieren in die eigene Schablone gelegt werden m\u00fcssen. Wie einfach oder schwer das ist\\, ist abh\u00e4ngig von der Schwierigkeitsstufe\\, die man w\u00e4hlt. Man kann Ubongo mit 3 oder 4 Pl\u00e4ttchen spielen. Wer seine Schablone als erster gef\u00fcllt hat\\, ruft \u201eUbongo\u201c. Daraufhin darf sich der Spieler zwei Diamanten aus dem Diamantenfeld nehmen. Es gilt dabei\\, sich von vorne nach hinten durchzuarbeiten. \u00dcber die Sprungweite der Figur entscheidet auch die Schnelligkeit\\, denn die entsprechenden Aktionen laufen innerhalb eines Zeitlimits ab. Wird dies \u00fcberschritten\\, werden keine Punkte in Form von Diamanten verteilt. Nach jeder Runde werden Schablone und Aufgabe \u00fcbrigens neu vergeben. Wenn alle Schablonen ein Mal gespielt wurden\\, gewinnt der Spieler\\, der die meisten Diamanten einer Farbe gesammelt hat.\\n\\n\\nQuelle: https:\/\/www.gesellschaftsspiele.de\/kosmos\/ubongo\/",
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "10 Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49e57d15516407e2ff184\/c04b382e0fd540d70397e2fa56bce32a\/photo.jpg"
+    },
+    {
+      "id": "105",
+      "title": "Concept",
+      "description": "Die 117 Piktogramme stellen unter anderem allgemeine Begriffe (wie Freizeit\\, Freunde etc.) und auch spezifischere Gegenst\u00e4nde\\, Formen\\, Farben oder Materialien (z. B. Plastik) dar. Die Gruppe\\, die am Zug ist\\, zieht eine Karte mit neun Begriffen\\, aufgeteilt in die drei Kategorien einfach\\, schwierig und herausfordernd. Nachdem sie sich leise auf einen Begriff geeinigt haben\\, geht es nun darum diesen mittels Spielsteinen und den Piktogrammen darzustellen. Zuerst m\u00fcssen sie die Figur \u201eHauptbegriff\u201c setzen. Nun m\u00fcssen sie durch Unterkategorien und \u201eBeschreibungssteine\u201c den anderen Mitspielern den Begriff erkl\u00e4ren. Wenn der Begriff erraten wird\\, wird je ein Punkt an die Erkl\u00e4rer ausgezahlt und zwei Punkte an den Spieler\\, der den Begriff als erster erraten hat. Gewonnen hat die Person\\, die die meisten Punkte hat\\, sobald alle zw\u00f6lf \u201e2 Punkte\u201c-Marker ausgegeben wurden.",
+      "players_min": "4",
+      "players_max": "12+",
+      "duration": "40 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a883bdaeddfcd425369b\/d27ea23318a0c1ec14805a0c587cda04\/photo.jpg"
+    },
+    {
+      "id": "106",
+      "title": "Set",
+      "description": "Set! ist ein Kartenspiel. Hmmm\\, na ja Kartenspiel nur deswegen\\, weil mit Karten gespielt wird. Der Spielmechanismus entspricht keinem typischen Kartenspiel und l\u00e4sst sich auch nicht mit einem anderen Spiel vergleichen.\\n\\nEs geht darum\\, unter den 12 ausgelegten Karte (3x4) drei zusammengeh\u00f6rige zu finden\\, ein so genanntes \u0027Set\u0027. Auf den Karten sind Symbole mit vier verschiedenen Eigenschaften abgebildet. Form (Rechteck\\, Welle\\, Ellipse)\\, Farbe (gr\u00fcn\\, blau\\, rot)\\, F\u00fcllung (leer\\, gef\u00fcllt\\, schattiert) und Anzahl (1\\, 2\\, 3) k\u00f6nnen unterschieden werden. Alle Spieler suchen gleichzeitig nach Sets. Wer als erstes eines gefunden hat\\, ruft \u0027Set!\u0027 (daher der Spielname) und zeigt es seinen Mitspielern. Hat er richtig gesehen\\, so erh\u00e4lt er die drei Karten. Die leeren Pl\u00e4tze werden nachbesetzt. Hat sich der Spieler jedoch geirrt\\, was nicht selten vorkommt\\, so muss er aussetzen bis ein anderer Spieler ein Set gefunden hat.",
+      "players_min": "2",
+      "players_max": "8",
+      "duration": null,
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aa5937f35941f99eb279\/e4a0a20fb7fc0ea03825ceb016157b1e\/trello1955369268.jpg"
+    },
+    {
+      "id": "107",
+      "title": "Einfach Genial",
+      "description": "Einfach Genial verzichtet auf jede Einkleidung in eine Geschichte\\, und auch die Gestaltung des Spielbrettes ist abstrakt. Jeder Spieler spielt gleichzeitig mit allen Symbolen gegen alle anderen Mitspieler.\\nDas gro\u00dfe Spielfeld ist mit einem Sechseck bedruckt\\, das in lauter kleine Sechsecke unterteilt ist. Die flachen Spielsteine aus dunklem Kunststoff bestehen aus zwei kleinen zusammenh\u00e4ngenden Sechsecken\\, die jeweils mit einem von sechs Symbolen bedruckt sind. Ein solcher Doppelstein kann zweimal dasselbe oder unterschiedliche Muster aufweisen. Die Symbole sind sowohl nach Farbe wie nach Form deutlich unterschieden und erleichtern so das Spiel auch farbenblinden oder sehbehinderten Mitspielern.\\n\\nJeder Spieler h\u00e4lt immer sechs zuf\u00e4llig gezogene Spielsteine verdeckt auf der Hand oder einem Ablagebrett und legt in jeder Runde einen davon ab. Die Steine k\u00f6nnen an v\u00f6llig beliebigen Stellen abgelegt werden. Punkte erh\u00e4lt man jedoch nur\\, wenn man gleiche Symbole aneinanderlegt. F\u00fcr alle schon liegenden Spielsteine mit dem gleichen Symbol\\, die in direkter Linie von den insgesamt zehn Kanten des eigenen Spielsteins ausgehen\\, erh\u00e4lt der Spieler einen Punkt.\\nDiese Punkte markiert er getrennt nach Symbolen auf seinem Wertungsbrett mit einem kleinen farbigen Stein. Erreicht ein Spieler mit einem Stein den H\u00f6chstwert von 18 Punkten\\, darf er sofort einen weiteren Stein platzieren. Ziel des Spieles ist es\\, in allen sechs Symbolen vorw\u00e4rtszukommen. Das Ende des Spiels ist erreicht\\, wenn kein Spielstein mehr auf das Brett passt oder (sehr selten) wenn ein Spieler in allen sechs Symbolen den H\u00f6chstwert erreicht.\\nEs gewinnt der Spieler\\, dessen am weitesten zur\u00fcckliegendes Symbol die meisten Punkte erreicht hat.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 Min",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aa7bc4fce904b480f232\/97171ea72a5287f1fae050f805bb41d0\/photo.jpg"
+    },
+    {
+      "id": "108",
+      "title": "bezzerwizzer",
+      "description": "\u0027Bezzerwizzer\u0027 ist ein Wissenspiel\\, bei dem die Spieler allein oder in Teams gegeneinander antreten.\\n\\nPunkte gibt es f\u00fcr das richtige Beantworten von Fragen\\, wobei die Teams die Punkte f\u00fcr die Wissensgebiete aus denen die Fragen stammen selbst festlegen k\u00f6nnen.\\n\\nDamit es dadurch nicht zu einfach wird\\, k\u00f6nnen die Spieler sich gegenseitig Wissensgebiete ver\u00e4ndern und auch bei Fragen mit antworten\\, die eigentlich nicht bei ihnen liegen. Sie k\u00f6nnen so als Besserwisser auftreten.",
+      "players_min": "2",
+      "players_max": "x",
+      "duration": null,
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ab6271dd285d8612a2eb\/a2f1275bff3abd010e339d05d6cc623b\/photo.jpg"
+    },
+    {
+      "id": "109",
+      "title": "Trivial Persuit - Genus Edition",
+      "description": "Ein weiterer Spieleklassiker: Bis zu sechs Spieler oder Spielerteams konkurrieren in sechs verschiedenen Kategorien\\, um die begehrten \u0027Tortenst\u00fccke\u0027 zu ergattern. Ist der Spielstein mit jeweils einem St\u00fcck einer jeden Kategorie gef\u00fcllt\\, so darf noch die Masterfrage gestellt werden. Der erste Spieler der diese richtig beantwortet gewinnt das Spiel.Da es sich hierbei um die Genus-Version handelt\\, ist das Spielen ab f\u00fcnfzehn oder f\u00fcr Erwachsene empfohlen.",
+      "players_min": "2",
+      "players_max": "36",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4abf79a1ef0174969a324\/67b48a802dfeee60decf02781bb02493\/photo.jpg"
+    },
+    {
+      "id": "110",
+      "title": "Qwirkle",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11927507c55f6d9d23787f\/0e2944b3230bd70f5adb716d9c97f29f\/trello90568166.jpg"
+    },
+    {
+      "id": "111",
+      "title": "Qwirkle Cubes",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1192c44eb21b49c0353ad0\/0dbe23d76d631f097aa9068d71677013\/trello1165565625.jpg"
+    },
+    {
+      "id": "112",
+      "title": "Der isses!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "10 - 20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b496de0dad0162ddb7df\/444b3fcb3e351e7b04d3c567b7591f04\/trello362077830.jpg"
+    },
+    {
+      "id": "113",
+      "title": "Yay!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b72a434aafbffde5ed8d\/f1a864a325161e7a65bf42fece17df6f\/trello423202075.jpg"
+    },
+    {
+      "id": "114",
+      "title": "Therapy",
+      "description": "Der Spieler begibt sich zun\u00e4chst als Psychiater auf eine Reise \u00fcber den Spielplan. Dabei geht es darum\\, m\u00f6glichst tief in die Psyche der Mitspieler \u201eeinzudringen\u201c. Ok\\, das ist jetzt ein bisschen weit hergeholt\\, nat\u00fcrlich ist dem nicht so\\, das Thema wird dazu viel zu kurzweilig aufbereitet. Vielmehr geht es darum\\, die anderen Spieler einzusch\u00e4tzen. Fragen wie \u201cF\u00fcr wie selbstsicher h\u00e4ltst du dich selbst auf einer Skala von 1 bis 10?\u201d gilt es zu beantworten\\, die anderen Spieler sollen daraufhin einsch\u00e4tzen\\, wie man sich selbst sieht. Auch Wissensfragen m\u00fcssen beantwortet werden. Das Gute: Alle Antworten sind Teil wissenschaftlicher Forschungen gewesen\\, sprich sie sind nicht willk\u00fcrlich ausgedacht.\\n\\n\\nQuelle: https:\/\/www.gesellschaftsspiele.de\/mb-spiele\/therapy\/",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f483b9dcc5ac8c5bc9cb79\/61cbae65e534391dff8bbbe9cc8a2792\/trello528365446.jpg"
+    },
+    {
+      "id": "115",
+      "title": "Konsensus",
+      "description": "Es gibt Momente im Leben\\, da haben zwei Menschen den gleichen Gedanken. Das Spiel \u201eKonsensus\u201c greift genau diese Idee auf und verpackt diese unter dem Motto \u201e2 K\u00f6pfe \u2013 1 Gedanke\u201c.\\nDas Spiel wird aus 16 Spielfeldern zusammengesetzt\\, diese variieren zwischen Aktions-\\, Spielverlaufs- und Assoziationsfeldern. Jeder Spieler bekommt Papier und Stift und damit kann das Spiel dann auch beginnen: Es wird stets eine Karte gezogen und vorgelesen\\, etwa \u0027Zwei Baumarten\u0027. Die Mitspieler schreiben ihre L\u00f6sungen auf und es wird verlichen. F\u00fcr jede \u00dcbereinstimmung bekommt der Leser einen Punkt - es ist daher sinnvoll sich zu \u00fcberlegen\\, was der aktive Spieler aufschreiben w\u00fcrde.\\n\\n\\n",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "30 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f487ff3b4c9c9c4fb9c6a8\/5b65f721373b1bfe944005d94126152e\/trello1995346207.jpg"
+    },
+    {
+      "id": "116",
+      "title": "Mind Trap",
+      "description": "\u0027MindTrap\u0027 besteht aus Aufgabenkarten\\, auf denen Scherzfragen\\, R\u00e4tsel oder andere Trickfragen aufgedruckt sind. Zwei Teams spielen gegeneinander um den Sieg. Sollte eine Frage richtig gel\u00f6st werden\\, so hat die Gruppe zwei M\u00f6glichkeiten: Weiter vorr\u00fccken\\, um dem Ziel n\u00e4herzukommen oder den Zug beenden\\, um den W\u00fcrfel zu werfen\\, dabei kann es sein\\, dass man stehen bleiben muss\\, ganz normal ein Feld vorr\u00fcckt oder sich aber auch mehrere Felder auf einmal nach vorne bewegen darf.\\n\\n\\n",
+      "players_min": "2",
+      "players_max": "x",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49c6750cdd0ea8ce0270a\/ef40a15ed5131f988d79b980923875d7\/photo.jpg"
+    },
+    {
+      "id": "117",
+      "title": "Wizard Junior",
+      "description": "Das Kultspiel Wizard jetzt auch f\u00fcr die j\u00fcngeren Fans! Die Spieler tauchen in die fabelhafte Welt von Wizard ein und \u00fcben sich in ihren ersten Vorhersagen ihrer magischen F\u00e4higkeiten. Leichte Regeln sorgen f\u00fcr einen schnellen Spieleinstieg.\\n",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f481abfbd21b11e5f68fdd\/6246e567e46b3c91fba09d9b1d0a7511\/trello1939061851.jpg"
+    },
+    {
+      "id": "118",
+      "title": "Bim Bamm!",
+      "description": "Memory-Spiele gehen bei Kindern immer gut. Das liegt vielleicht daran\\, dass beim Spielsystem des \u201eSich-merken-wo-was-liegt\u201c die J\u00fcngsten uns um L\u00e4ngen \u00fcberlegen sind. Mit Bim Bamm! wurde jetzt ein kleines Suchspiel aufgelegt\\, bei dem nicht nur zwei identische Karten in der Auslage aufzudecken sind\\, sondern gleich f\u00fcnf.\\n\\nAuf f\u00fcnfzehn Tierk\u00e4rtchen finden sich beidseitig bedruckt f\u00fcnf verschiedene Tiere\\, ein zus\u00e4tzliches Aktionsk\u00e4rtchen komplettiert die Auslage. Zus\u00e4tzlich bekommt jeder der Spieler eine Handkarte\\, auf dem eines der f\u00fcnf teilnehmenden Tiere abgebildet ist \u2013 dieses Tier gilt es nun f\u00fcnffach in der Auslage aufzudecken. Dazu wird pro Spielzug immer eines der K\u00e4rtchen umgedreht und sobald f\u00fcnfmal Hund\\, Katze\\, Schwein\\, Esel oder Henne sichtbar sind\\, ruft einer der Spieler \u201eBim Bamm!\u201c \u2013 vorausgesetzt\\, er befindet sich im Besitz der entsprechenden Handkarte mit dem Konterfei des Tieres. Dann legt dieser Spieler seine Handkarte als Siegpunkt vor sich ab und zieht eine neue Karte nach. Anschlie\u00dfend dreht er noch zwei beliebige Karten der Auslage um und der n\u00e4chste Spieler im Uhrzeigersinn ist an der Reihe.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "10 - 15 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f483b9b42d79b50e6b1b69\/aa4b0ba9e595a5cedda56d2335d48b6b\/trello936907381.jpg"
+    },
+    {
+      "id": "119",
+      "title": "Sonne und Mond",
+      "description": "Bei \u201eSonne und Mond\u201c m\u00fcssen die Spieler (den Regeln einer klassischen Patience folgend) Kartenreihen bilden\\, die entweder den Sonnen- oder aber den Mondaufgang darstellen. Alle Spielkarten sind mit Ziffern von 1 \u2013 29 versehen und d\u00fcrfen nur numerisch passend angelegt werden. Gelingt es einem Spieler so mindestens f\u00fcnf zusammenh\u00e4ngende Sonnen- oder Mondkarten vor sich abzulegen\\, kann er die Reihe abr\u00e4umen und Punkte sammeln. Die Spielkarten \u00fcberraschen mit einem untypischen Format und die Illustrationen sind so wundervoll gestaltet worden\\, dass beim Spielen regelrecht das Gef\u00fchl eines Sonnen- oder Mondaufgangs vermittelt wird.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48435cfba1df9760fd2eb\/74e2f1d9aeb1e761a01e7f7214a2730b\/trello1085600662.jpg"
+    },
+    {
+      "id": "120",
+      "title": "Mundus Novus",
+      "description": "Mundus Novus - die Neue Welt. Im 16. Jahrhundert Traum aller Seefahrer; und der K\u00f6nigsh\u00e4user! Schnell hatte man gemerkt\\, dass man mit den exotischen Handelsg\u00fctern jede Menge Geld scheffeln konnte. Bruno Cathala und Serge Laget haben eben dieses Streben nach Reichtum in das Spiel Mundus Novus verpackt. Das Kartendeck ist voller wertvoller Rohstoffe\\, die g\u00fcnstig erworben und gewinnbringend verkauft werden k\u00f6nnen. Diese Rohstoffe sind Warenkarten\\, die gesammelt und getauscht werden m\u00fcssen\\, um Sets gleicher oder unterschiedlicher Arten einl\u00f6sen zu k\u00f6nnen. Neben Kakao\\, Mais\\, Tabak\\, Kaffee\\, Baumwolle\\, Zuckerrohr\\, Kartoffeln\\, Indigo und Vanille bringen die Handelsflotten aber auch erbeutete Inka-Reliquien mit\\, die als Joker eingesetzt werden k\u00f6nnen.",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f487c2d7bea5358d09c9f9\/36d2c1e795fd7a06d6218afa45500a98\/trello1181712226.jpg"
+    },
+    {
+      "id": "121",
+      "title": "Mascarade",
+      "description": "Identit\u00e4tskrisen-Selbsthilfe-Gruppe - oder: \u0027Can\u0027t read my Maskenface\u0027\\nBeim Maskenball wei\u00df niemand mehr so genau\\, wer sich hinter welcher Maske versteckt. Diesen Umstand nutzt ihr aus\\, um der reichste Spieler zu werden. Nur was ist\\, wenn ihr selber nicht mehr wisst\\, wer ihr seid? In diesem Merk- und Bluffspiel f\u00fcr bis zu 13 Leute ist einiges an Verwirrung garantiert\\, aber das ist nicht immer zu eurem Nachteil. ",
+      "players_min": "2",
+      "players_max": "13",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f488e6f7404f4238b4a363\/60c1cd9b9ecc20edcd4141f341493a2a\/trello1453106417.jpg"
+    },
+    {
+      "id": "122",
+      "title": "Ohne Furcht und Adel",
+      "description": "Ohne Furcht und Adel ist ein Kartenspiel mit wechselnden Identit\u00e4ten. Jeder Spieler beginnt mit einem Vorrat an Gold und Bauwerkkarten. In jeder Runde werden die Charakterkarten jedoch nach einem komplexen Mechanismus neu verteilt. Dabei bleibt zun\u00e4chst weitestgehend geheim\\, welcher Spieler welchen Charakter ausgew\u00e4hlt hat. Die verschiedenen Charaktere verf\u00fcgen \u00fcber verschiedene Sonderf\u00e4higkeiten \u2013 manche konstruktiv\\, andere destruktiv. Nachdem eine Runde gespielt wurde\\, werden die Charakterkarten eingesammelt und neu verteilt. Das Spiel endet in der Runde\\, in welcher der erste Spieler sein achtes Geb\u00e4ude errichtet hat. Anschlie\u00dfend werden die Siegpunkte errechnet. Den Hauptteil machen hierbei die errichteten Geb\u00e4ude aus. In der Regel entsprechen deren Siegpunkte den jeweiligen Baukosten in Gold. Es gibt jedoch auch f\u00fcr andere Spielziele Siegpunkte.",
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "60 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4891ad6a6ab826157e991\/e75814cf49998b54affae06e5bc573ae\/trello1889696914.jpg"
+    },
+    {
+      "id": "123",
+      "title": "Wizard",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f489a709a0a0da47032b29\/d3ee763d129ceaa0c7b493fa0ebc0944\/trello1282199880.jpg"
+    },
+    {
+      "id": "124",
+      "title": "Ohne Furcht und Adel - Die Dunklen Lande",
+      "description": "\u201eDie dunklen Lande\u201c ver\u00e4ndern zwar keine Regeln\\, bringen aber neun neue Charaktere ins Spiel. Man kann jetzt auch zu acht \u201eOhne Furcht und Adel\u201c spielen. Entweder spielt man nun mit den alten Charakteren\\, den neuen oder aber man verwendet einen gelungenen Mix aus Alt und Neu. Es gibt keine Vorschriften wie die Charaktere miteinander zu mischen sind und so kann man allerlei Varianten ausprobieren; das Spiel wird noch abwechslungsreicher!",
+      "players_min": "2",
+      "players_max": "8",
+      "duration": "60 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48a12495c2afcae99e8d5\/72edfe6a003808663c12dbb06d25bb51\/trello963215515.jpg"
+    },
+    {
+      "id": "125",
+      "title": "Love Letter",
+      "description": "Love Letter ist ein Kartenspiel mit Deduktions- und Bluffelementen\\, bei dem die Spieler das Herz einer Prinzessin zu gewinnen versuchen\\, indem sie ihr Liebesbriefe senden. Dies geschieht \u00fcber verschiedene Personen am k\u00f6niglichen Hof\\, wobei h\u00f6hergestellte Personen bessere Chancen haben\\, einen solchen Liebesbrief weiterzuleiten. Es gewinnt\\, wer es schafft\\, eine bestimmte Anzahl an Liebesbriefen \u00fcberbringen zu lassen.",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48a6674ebde2654459bad\/509a3c8ea0f34aab7dc30e489e88be3a\/trello692701469.jpg"
+    },
+    {
+      "id": "126",
+      "title": "Cranium",
+      "description": "Das Cranium Kartenspiel bringt vier tolle Spielvarianten in einem Spiel: Schauspielern\\, Zeichnen\\, Begriffe erkl\u00e4ren und W\u00f6rter r\u00fcckw\u00e4rts buchstabieren. Dieses spannende Partyspiel wird auf Zeit in zwei Teams aus mindestens zwei Spielern gespielt. Die Karten mit der orangen R\u00fcckseite geben das Thema der Runde vor. So muss man sich zum Beispiel zu dem Stichwort \u0027etwas\\, das laut ist\u0027 schnell einen Begriff \u00fcberlegen. Diesen m\u00fcssen die anderen Ratef\u00fcchse nun herausfinden. Ein vorher bestimmter Spieler gibt die Hinweise - dabei folgt er den Handlungsanweisungen auf der zuvor gezogenen lilafarbenen Karte. Dort sind auch die Punkte vermerkt\\, welche die Mannschaften am Ende der zw\u00f6lf Runden f\u00fcr sich verbuchen k\u00f6nnen.\\n",
+      "players_min": "2",
+      "players_max": "x",
+      "duration": "15 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4933db060982fabf315a8\/12df346e10c9514d6d6c558384141c8a\/photo.jpg"
+    },
+    {
+      "id": "127",
+      "title": "Die Kutschfahrt zur Teufelsburg",
+      "description": "Alle Spieler sind Reisende in einer Kutsche auf dem Weg zur Teufelsburg\\, aber niemand in der Kutsche wei\u00df\\, wer Freund und wer Feind ist.\\n\\nJeder Spieler bekommt zu Beginn des Spieles im Geheimen die Zugeh\u00f6rigkeit zu einer der beiden verfeindeten Geheimgesellschaften zugelost. Au\u00dferdem bekommt jeder einen geheimen Beruf mit einer speziellen F\u00e4higkeit. Man hat Anfangs keine Ahnung wer die anderen sind und zu welcher Gesellschaft sie geh\u00f6ren.\\n\\nUm das Spiel zu gewinnen mu\u00df jede Gesellschaft gemeinsam drei bestimmte Objekte sammeln. Daf\u00fcr mu\u00df man w\u00e4hrend des Spiels zun\u00e4chst herausfinden wer die eigenen Verb\u00fcndeten sind und anschlie\u00dfend wo die drei Objekte zwischen den anderen Gegenst\u00e4nden zu finden sind\\, bzw. wer sie im Besitz hat.",
+      "players_min": "3",
+      "players_max": "8",
+      "duration": "30 - 60 Min",
+      "year": "2006",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f493c885cb811297de1f41\/e3b8998b615fc5a4aeb8117061558590\/photo.jpg"
+    },
+    {
+      "id": "128",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f493c885cb811297de1f41\/25a3af8850f0eaf4c60c93b3cf12e1d2\/photo.jpg"
+    },
+    {
+      "id": "129",
+      "title": "Trumpf raus!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a4261684bd3cf76f6393\/4846e41ac061d6a51ef54466184362ff\/photo.jpg"
+    },
+    {
+      "id": "130",
+      "title": "Matschig",
+      "description": "Wolltet ihr schon immer euere Mitmenschen mit Matsch bewerfen? Hier habt ihr die Gelegenheit - jedenfalls mit Spielkarten. In diesem matschigen Kartenspiel habt ihr alle nur ein Ziel: Ihr wollt nicht der Dreckigste sein! Die Matsch-Party geht los: Bewerft euch mit Sand und Wasser\\, nutzt eure Regenschirme und im richtigen Moment gibt\u2019s die Revanche. Der Spieler\\, der dem Matsch am besten ausweicht und die wenigsten Matschpunkte kassiert\\, gewinnt!",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "30 Min",
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "131",
+      "title": "Gregs Tagebuch - Von Idioten umzingelt",
+      "description": "Jeder Spieler m\u00f6chte in Gregs Tagebuch: Von Idioten umzingelt der beliebteste Sch\u00fcler der Klasse werden. Mit Hilfe von Aktionskarten kann man in der Skala aufsteigen\\, aber wenn man zu viele zieht\\, kann es abw\u00e4rts gehen. Ein Spiel nicht nur f\u00fcr Sch\u00fcler.",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "20 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a45faa26fdaa2fea7754\/dfcaf3d8f29810db6dbca0b9feb12470\/photo.jpg"
+    },
+    {
+      "id": "132",
+      "title": "Fluxx",
+      "description": "Fluxx ist ein Kartenspiel\\, das mit einem Satz von 100 eigens entworfenen Karten gespielt wird.\\n\\nDas wichtigste Merkmal von Fluxx ist die Tatsache\\, dass die Spielregeln sich durch die ausgespielten Karten w\u00e4hrend des Spiels st\u00e4ndig \u00e4ndern. Das Spiel beginnt mit einer Grundregel\\, nach der jeder Spieler eine Karte zieht und anschlie\u00dfend eine ausspielt. Durch das Ausspielen von Regelkarten k\u00f6nnen diese Regeln jedoch jederzeit ge\u00e4ndert und erweitert werden. Au\u00dferdem gibt es Aktionskarten\\, die dem Spieler einmalige Aktionen wie das Stehlen von Karten oder das Entfernen von Regeln gestatten. Am Spielbeginn gibt es noch kein festgelegtes Ziel; dieses wird erst im Spielverlauf durch das Ausspielen einer Zielkarte festgelegt und kann auch wieder ge\u00e4ndert werden. Die meisten Ziele beinhalten\\, dass der Spieler mit einer bestimmten Kombination von Sammlern gewinnt\\, die sonst auf das Spiel praktisch keine Auswirkung haben. Gammler k\u00f6nnen ihn jedoch am Gewinnen hindern. Im Spiel sind auch einige Blankokarten enthalten\\, die mit den Ideen der Spieler gef\u00fcllt werden k\u00f6nnen.",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a4740ba36341cf2dddd1\/f95288608eb4f69337eb54150ad30227\/photo.jpg"
+    },
+    {
+      "id": "133",
+      "title": "Goldrush-City",
+      "description": "Bei Goldrush-City geht es um das Erbauen einer typischen Westerstadt - und nat\u00fcrlich darum\\, B\u00fcrgermeister selbiger zu werden. Die Goldgr\u00e4bergemeinschaft braucht Saloons\\, eine Schmiede\\, Banken und vieles mehr\\, aber dazu werden auch Rohstoffe wie Holz\\, Stein und Gold ben\u00f6tigt. Der Spieler\\, der am Ende die meisten Geb\u00e4ude gebaut hat\\, wird das Oberhaupt von Goldrush-City.\\n",
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "60 - 180 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a494579d79e34ced6b62\/e0112abd010660f1fd64172fd963bf3b\/photo.jpg"
+    },
+    {
+      "id": "134",
+      "title": "Ziegen Kriegen",
+      "description": "Ziegen kriegen ist von der Art her ein klassisches Stichspiel.\\n\\nDie Spieler m\u00fcssen somit Karten (Ziegenk\u00f6pfe) sammeln.\\n\\nAllerdings wei\u00df niemand am Anfang wie viele Ziegenk\u00f6pfe er \u00fcberhaupt sammeln darf und das macht das Spiel zu einer sehr netten Stich-Spiel-Variante.",
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "15 Min",
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "135",
+      "title": "Hanabi",
+      "description": "Der Name des Spiels leitet sich vom Japanischen ab\\, wo hanabi \u201eFeuerwerk\u201c (w\u00f6rtlich: \u201eBlumen-Feuer\u201c) bedeutet. Ziel des Spiels ist\\, dass alle Spieler gemeinsam m\u00f6glichst viele Karten passend ablegen\\, was mit einem farbenpr\u00e4chtigen Feuerwerk gleichgesetzt wird.\\n\\nEine Regel besteht darin\\, dass die Spieler ihre Karten \u201everkehrt\u201c herum (mit der R\u00fcckseite zum Spieler) halten\\, sodass jeder nur die Karten seiner Mitspieler sieht\\, nicht jedoch seine eigenen. Aus Hinweisen der Mitspieler wie \u201eDiese beiden Karten sind Zweier\u201c oder \u201eDu hast eine blaue Karte\\, und zwar diese hier\u201c k\u00f6nnen in Kombination mit Hinweisen aus fr\u00fcheren Runden R\u00fcckschl\u00fcsse gezogen werden\\, welche Karten ausgespielt oder abgeworfen werden sollten. Es steht aber nur eine begrenzte Anzahl von Tipps zur Verf\u00fcgung \u2013 und nach drei Fehlern beim Ausspielen von Karten ist das Spiel f\u00fcr alle verloren.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 Min",
+      "year": "2013",
+      "image": null
+    },
+    {
+      "id": "136",
+      "title": "Die S\u00e4ulen der Erde",
+      "description": "Die S\u00e4ulen der Erde ist erneut ein Kartenspiel\\, das lose auf den B\u00fcchern von Ken Follett basiert.\\nDie Rohstoffe sind knapp und die eigenen Handwerker sind auch nicht immer verf\u00fcgbar. Die Voraussetzungen sind somit schwierig der beste Baumeister zu werden.\\nIn diesem Stichspiel geht es somit nicht nur darum Stiche zu bekommen\\, sondern mit den Stichen auch die ben\u00f6tigten Rohstoffe und die eigenen Handwerker.\\nDenn nur wer aus seinen Rohstoffen mit Hilfe der passenden Handwerker Rohstoff-Produkte f\u00fcr den Bau der Kathedrale liefert erh\u00e4lt Ruhm und Anerkennung.",
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a505782e3aea6d7a7522\/f9bb892b55dc55c1509910e0e9113b0f\/photo.jpg"
+    },
+    {
+      "id": "137",
+      "title": "H\u00f6hlen Gr\u00f6len",
+      "description": "Wolltet ihr schon immer mal \u00d6tzi die Gletschermumie als Rockstar sehen? Dann casten Sie die (mehr oder weniger) talentiertesten Musiker der Steinzeit und stellen Sie sie zu erfolgreichen Bands zusammen.\\nVielleicht gelingt es Ihnen ja\\, dieses Jahr zum Produzenten des Jahres gek\u00fcrt zu werden. Dazu m\u00fcssen sie aber mit jeder neuen Gruppe ihre vorherigen Z\u00f6glinge \u00fcbertreffen... keine einfache Aufgabe! ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a51eb4c019ea0ae86e78\/47dfea7ad2dc9195ffc4bf783ae98485\/photo.jpg"
+    },
+    {
+      "id": "138",
+      "title": "Shadows over Camelot",
+      "description": "Jeder Spieler \u00fcbernimmt entweder die Rolle eines Getreuen oder eines Verr\u00e4ters (abh\u00e4ngig von der Spieleranzahl) der Tafelrunde. Durch Auslegen von Ger\u00fcchten (Karten) versuchen die Spieler bestimmte Werte zu erreichen oder zu verhindern. Hierf\u00fcr werden wei\u00dfe oder schwarze Schwerter vergeben\\, wobei man lange Zeit nicht wei\u00df\\, welche Rolle einzelne Spieler einnehmen. So gewinnen am Ende die Getreuen (mit 7 wei\u00dfen Schwertern) oder der oder die Verr\u00e4ter (mit 7 schwarzen Schwertern).",
+      "players_min": "1",
+      "players_max": "7",
+      "duration": "20 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a8e720e151bd662b8788\/9c08bc3d1843322aa975b9dbbce3c0b1\/photo.jpg"
+    },
+    {
+      "id": "139",
+      "title": "Kakerlaken Poker Royal",
+      "description": "Igittigittigitt! Kakerlaken\\, Stinkwanzen und Spinnen: Bei dieser genialen Kartenschieberei mit Tieren\\, die keiner mag\\, verliert\\, wer sich als Erster von den anderen vier gleiche Karten andrehen l\u00e4sst. Alle anderen gewinnen. Also hei\u00dft\u0027s\\, cool bleiben und frech bluffen\\, denn wer vier kassiert\\, verliert.",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "15 - 25 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a92738ca4425a9ca6be6\/67932d01d5be1a5940dced2b13c02ae4\/photo.jpg"
+    },
+    {
+      "id": "140",
+      "title": "Tarantel Tango",
+      "description": "Wie von der Tarantel gestochen\\, rennen die Tiere mit Gebr\u00fcll im Kreis. Dabei sucht die haarige Spinne doch nur einen Tanzpartner! Es gilt\\, seine Karte schnell abzulegen und den richtigen Laut zu machen. Wer einen Fehler macht\\, muss alle gespielten Karten auf die Hand nehmen. Wehe dem\\, der sich hier nicht konzentriert ...",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "15 - 20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a94cca8c76425abd7199\/9f5155051ab760ddf9d24fefd3f91101\/photo.jpg"
+    },
+    {
+      "id": "141",
+      "title": "Gregs Tagebuch - Heissa Mama",
+      "description": "\u00dcberbieten erlaubt! Bei diesem Biet- und Bluffspiel wird immer h\u00f6her geboten. Bis einer \u201eHeissa\\, Mama!\u201c ruft und das Gebot des Mitspielers anzweifelt. Jeder darf beliebig \u00fcberbieten \u2013 aber man sollte sich bei falschen Angaben nicht erwischen lassen. ",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "20 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a984ac9cf7bfd202a71b\/4f83669af5d3e3ed4152c1728fb6cb31\/photo.jpg"
+    },
+    {
+      "id": "142",
+      "title": "Bohnanza",
+      "description": "Kein Spiel f\u00fcr Erbsenz\u00e4hler!\\nWer glaubt\\, Bohnen seien nur einfaches Gem\u00fcse\\, liegt falsch. Bei Bohnanza handelt jeder Spieler mit Bohnen\\, die er m\u00f6glichst gewinnbringend verkauft. Je mehr ein Spieler anbaut\\, desto h\u00f6her ist sein Ertrag. Aber wehe\\, die Bohnenernte wird zu fr\u00fch verkauft \u2026",
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a9a004b4eaad606bb797\/be7c190bb9060cd4b6b20ccd2f1e9830\/photo.jpg"
+    },
+    {
+      "id": "143",
+      "title": "Bohn to be wild",
+      "description": "Jetzt wird\u2019s wild im Bohniversum. Ob Jamaika-\\, Helm- oder Pferdebohne\\, elf neue Bohnensorten warten darauf\\, m\u00f6glichst gewinnbringend angebaut zu werden. Die wilden Bohnen sorgen dabei f\u00fcr interessante Wendungen und erm\u00f6glichen spannende Aktionen. Wer am Ende die meisten Taler verdient hat\\, gewinnt.\\n\\n\u201eBohn to be wild\u201c ist die Jubil\u00e4umsausgabe von \u201eBohnanza\u201c und ohne das Grundspiel spielbar.",
+      "players_min": "1",
+      "players_max": "7",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a9b8dcc5ac8c5bcbcb4d\/c20f2cb544547e470afb641faab0754a\/photo.jpg"
+    },
+    {
+      "id": "144",
+      "title": "Qwixx",
+      "description": "Bei Quixx m\u00fcssen die Werte der gezogenen und gespielten Karten clever in eine Tabelle eingetragen werden. ",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "15 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ad1d094c552e9dd0aa91\/2f0fb0ebc1386fd4f864c9aa6836449a\/photo.jpg"
+    },
+    {
+      "id": "145",
+      "title": "Der wahre Walter",
+      "description": "Der Hintergrund dieses Spiels ist der sogenannte Fichenskandal der Schweiz. Die Bundespolizei legte ca. 900\u0027000 Karteikarten \u00fcber mehr als 10 % der Schweizer Bev\u00f6lkerung an. Betroffen waren s\u00e4mtliche Gesellschaftsschichten. Die Bundespolizei wollte erreichen\\, dass die Schweiz von kommunistischen subversiven Personen gesch\u00fctzt wird. Das Vertrauen der Bev\u00f6lkerung in den Staat wurde durch die Entdeckung der Fichen ersch\u00fcttert. Zahlreiche B\u00fcrger reichten Gesuche ein\\, um die Herausgabe der pers\u00f6nlichen Fichen zu erreichen. Namen der Informanten (h\u00e4ufig Drittpersonen im Umfeld der bespitzelten Personen wie z.B. Nachbarn oder Arbeitskollegen) wurden mit schwarzem Filzstift \u00fcberdeckt um ihre Identit\u00e4t geheim zu halten. Die Fichen hatten manchmal auch zus\u00e4tzlich sehr absurde Informationen. Der bekannteste Fall absurder gesammelter Informationen ist die Fiche der SP-Nationalr\u00e4tin Menga Danuser. Die Fiche tr\u00e4gt den Satz \u201e[\u2026] trinkt Abends gerne ein Bier!\u201c.\\n\\n\\nDas Spiel setzt nun bei diesen Karteikarten an und parodiert sie. Auf den Karten stehen drei S\u00e4tze mit einem eingeschw\u00e4rzten Wort. Auf dem schwarzen Balken ist stattdessen \u201eWALTER\u201c zu lesen. So heisst es beispielsweise auf einer Karte \u201e3. W\u00e4re es nicht lustig\\, wenn die ersten Astronauten\\, die ihren Fuss auf den Mars setzen\\, dort ein(e\/n) WALTER f\u00e4nden?\u201c. Ein Spieler wird zur sogenannten \u201eSphinx\u201c und schreibt eine Antwort auf. Diese Antwort ist der wahre Walter. Die Mitspieler m\u00fcssen nun versuchen diese Antwort zu f\u00e4lschen und diese Antworten sind dann gef\u00e4lschte Walter.",
+      "players_min": "4",
+      "players_max": "x",
+      "duration": "42 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ad403d2103173518c67e\/1bafa12c7e3f042eeae7f28734db3adc\/photo.jpg"
+    },
+    {
+      "id": "146",
+      "title": "Gobb\u0027it",
+      "description": null,
+      "players_min": "3",
+      "players_max": "8",
+      "duration": "15 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ad65b534f3c0299ebedc\/9d0e916649f44e00aec3aac184169d11\/photo.jpg"
+    },
+    {
+      "id": "147",
+      "title": "Schnapp den Eisb\u00e4r",
+      "description": "Pick-a-Polar Bear ist ein rasantes Reaktions- und Wahrnehmungsspiel\\, bei dem die Spieler die Aufgabe haben\\, m\u00f6glichst schnell passende Karten an sich zu nehmen. Doch d\u00fcrfen nur Karten genommen werden\\, die zur Vorg\u00e4ngerkarte keinen oder nur einen Unterschied aufweisen. Da hei\u00dft es gezielt zugreifen\\, bevor es der Gegenspieler tut. Wer am Ende die meisten Karten richtig eingesammelt hat\\, ist Sieger.",
+      "players_min": "1",
+      "players_max": "5",
+      "duration": "15 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ad8f764ed921824ce277\/cc892651ac939801db442f39e94e138c\/trello-1057660159.jpg"
+    },
+    {
+      "id": "148",
+      "title": "Ligretto",
+      "description": "Ligretto ist ein Kartenspiel f\u00fcr zwei bis vier Spieler (mit mehreren verschiedenfarbigen Paketen bis zw\u00f6lf Spieler)\\, die versuchen\\, ihre Karten m\u00f6glichst schnell auf gemeinsame Stapel in der Mitte abzulegen (je von 1-10 und nach Farbe sortiert). Da alle Spieler gleichzeitig ablegen d\u00fcrfen\\, fordert das Spiel Reaktionsgeschwindigkeit. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "10 Min",
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "149",
+      "title": "Coloretto",
+      "description": "Wer zu sp\u00e4t kommt\\, den bestraft das Leben. So in etwa k\u00f6nnte man Coloretto umschreiben. Man muss wissen\\, wann es kl\u00fcger ist weniger Karten zu nehmen\\, als auf viele Karten zu warten\\, von denen dann manche unpassend sind.\\n\\nWer an der Reihe ist\\, hat 2 M\u00f6glichkeiten: 1. Eine neue Karte aufdecken und einer beliebigen Reihenkarte zuordnen (wobei an einer Reihenkarte h\u00f6chstens 3 Karten liegen d\u00fcrfen) oder 2. Eine Reihenkarte mit allen bis zu diesem Zeitpunkt dort angelegten Karten nehmen. In jeder Runde darf jeder nur eine Reihenkarte aufnehmen. Hat jeder eine Reihenkarte\\, so beginnt die n\u00e4chste Runde.\\n\\nIst die letzte Spielrunde vorbei\\, so geht es an die Wertung. Man wertet jene Farben positiv\\, von denen man die meisten Karten gesammelt hat; alle anderen Farben bringen Minuspunkte. Genommene Joker werden beliebig zugeteilt\\, Karten \u201e+2\u201c bringen 2 zus\u00e4tzliche Punkte. Wer nach der Addition von 4 Spielen die meisten Punkte hat\\, ist das neue Cham\u00e4leon \u00e4h... Sieger.",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 Min",
+      "year": "2003",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4add360297973a46a98ca\/7c33d51b5eac5013cacbdaa18a3cf3be\/photo.jpg"
+    },
+    {
+      "id": "150",
+      "title": "Duckomenta Art",
+      "description": "Die \u201einterDucks\u201c haben die Kunstwelt erobert! Die Meisterwerke der DUCKOMENTA mit den Portraits und Darstellungen der geheimnisvollen Erpelsippe (den interDucks) sind in aller Munde. Museen aus aller Welt rei\u00dfen sich darum\\, die neu entdeckten Bilder und Objekte auszustellen.\\n\\nJeder Spieler agiert als Museumsdirektor und entscheidet\\, wann er welche Exponate ausstellt. Doch die \u00d6ffentlichkeit ist unbarmherzig\\, mit jeder Saison sind andere Epochen gefragt. Nur wer seine Sch\u00e4tze zum richtigen Zeitpunkt pr\u00e4sentiert\\, kann den Ruhm ernten!",
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "20 - 30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ae1f4389064e50d01db3\/156f674fafa057d7a197d1e50fba50ae\/photo.jpg"
+    },
+    {
+      "id": "151",
+      "title": "6 Nimmt",
+      "description": "Bei dem Spiel 6 nimmt! geht es darum\\, beim Abspielen der eigenen Karten m\u00f6glichst wenig Minuspunkte in Form von \u201eHornochsen\u201c auf zur\u00fcckerhaltenen Karten zu bekommen. Dies geschieht\\, wenn die abgelegten Karten als sechste Karte in eine Kartenreihe gelegt werden. Im Spiel gibt es keine Spielerreihenfolge und alle Spieler spielen gleichzeitig ihre Karten aus\\, die Zugreihenfolge ist dann abh\u00e4ngig vom Kartenwert. Die Anzahl der Runden ist auf 10 festgelegt\\, da alle Spieler zu Beginn 10 Handkarten erhalten und in jeder Runde eine Karte ablegen.",
+      "players_min": "2",
+      "players_max": "10",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ae63b3f8b8e2f77fbfa2\/51c5c8b7f32c91566c7d7b8dece04328\/photo.jpg"
+    },
+    {
+      "id": "152",
+      "title": "Wizard Extreme",
+      "description": "Die Abl\u00e4ufe von Wizard\\, einem Stichspiel\\, bleiben unver\u00e4ndert\\, allerdings m\u00fcssen die Spieler in der Rolle von Zaubergesellen vorhersagen\\, wie viele Stiche und mit welchen Farben sie gewinnen werden. Hierbei stehen verschieden farbige Siegel zur Verf\u00fcgung\\, die man im Spielverlauf wieder loswerden muss.",
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "45 Min",
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "153",
+      "title": "F\u00fcnf Gurken",
+      "description": "Beim Kartenspiel \u201eF\u00fcnf Gurken\u201c handelt es sich um die moderne Umsetzung eines bekannten Stichspiels\\, das in zahlreichen europ\u00e4ischen L\u00e4ndern weit verbreitet ist. Beispielsweise als \u201eAgurk\u201c in D\u00e4nemark\\, \u201eOg\u00f3rek\u201c in Polen\\, \u201eGurka\u201c in Schweden oder auch als \u201eKurkku\u201c in Finnland.\\nDas Besondere an dem Stichspiel ist eigentlich\\, dass der Spieler gewinnt\\, der eigentlich am meisten verliert. Aber fangen wir vorne an.\\nEine Spielrunde F\u00fcnf Gurken besteht aus sieben kleineren Stichrunden. Dabei versuchen die Spieler in den ersten sechs Stichrunden ihre Kartenhand so abzubauen\\, dass sie auf keinen Fall den siebten und letzten Stich einer Spielrunde gewinnen. Hier sind Taktik und Gl\u00fcck gleicherma\u00dfen gefragt.\\nGewinnt ein Spieler den letzten Stich\\, so muss er soviele Gurken aufnehmen\\, wie auf seiner Siegerkarte abgebildet sind. Hat ein Spieler mehr als f\u00fcnf Gurken gesammelt\\, scheidet er aus dem Spiel aus.\\nGespielt werden so viele Runden\\, bis am Ende nur noch ein Spieler mit maximal f\u00fcnf oder weniger Gurken \u00fcbrig bleibt. Das ist dann auch der Gewinner.\\n",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "25 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aea7f43f568caa7eefe2\/7e4a2bdc8503a3765444363572a10fdd\/trello-1236644328.jpg"
+    },
+    {
+      "id": "154",
+      "title": "Guildhall",
+      "description": "In Guildhall - Z\u00fcnfte \u0026 Intrigen k\u00e4mpft ihr mit allen Mitteln um Einfluss und Macht. Versammelt unterschiedliche Arbeiter in den Z\u00fcnften der einzelnen Berufsgruppen\\, um mit vereinter Kraft den Sieg zu erlangen. Die vielf\u00e4ltigen Aktionen der Historiker\\, Weberinnen oder Bauern helfen euch\\, auf ehrliche Weise eure Z\u00fcnfte zu vervollst\u00e4ndigen und somit den hei\u00df begehrten Sieg zu erlangen. Damit w\u00fcrden alle gl\u00fccklich und zufrieden ans Ziel kommen\\, g\u00e4be es da nur nicht auch noch die Meuchler und H\u00e4ndler. Mit ihrer Unterst\u00fctzung verschafft ihr euch Zutritt zu den Zunfth\u00e4usern eurer Mitspieler und k\u00f6nnt somit die Pl\u00e4ne eurer Gegner durchkreuzen. Und wer kann dann noch dem Reiz der T\u00e4nzerinnen widerstehen\u2026 Doch so unterschiedlich die einzelnen Berufe auch sind\\, schlussendlich m\u00fcssen sie dennoch auch zusammen arbeiten\\, um die besten Aktionsm\u00f6glichkeiten nutzen zu k\u00f6nnen. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "155",
+      "title": "Labyrinth - Das Kartenspiel",
+      "description": "Das Spielprinzip ist das gleiche wie bei den anderen Spielen der Reihe (etwa Das verr\u00fcckte Labyrinth oder Labyrinth der Meister): Es muss ein Weg durch den Irrgarten gefunden werden. Diesmal eine Verbindung zwischen zwei gleichen Symbolen. Am Anfang liegen vier Karten (im Quadrat) in der Mitte. Reihum legen die Spieler Karten an\\, sodass ein Weg entsteht. Stell man mit der angelegten Karte eine Verbindung zwischen zwei Symbolen her\\, darf man sich eine Karte nehmen; aber nur dann\\, wenn die Verbindung zwischen den \u00fcbrigen Karten nicht verlorengeht -stets m\u00fcssen K\u00e4rtchen Kante an Kante liegen.",
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "2000",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aefb5b352c3770e53d1b\/bca6a36944090a1a0f5f1e8aae81118e\/photo.jpg"
+    },
+    {
+      "id": "156",
+      "title": "Janus",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4af158340c03833f1d248\/741fbae9b25ff29fcb9238c7f4bb01b1\/photo.jpg"
+    },
+    {
+      "id": "157",
+      "title": "Smash up",
+      "description": "Das Kartenspiel \u201eSmash Up\u201c ist ein wahnwitziger Kampf\\, bei dem nichts weniger als die vollst\u00e4ndige Kontrolle der Welt euer Ziel ist! Das Basisspiel von \u201eSmash Up\u201c bietet euch 8 Fraktionen\\, mit denen ihr 28 verschiedene Kartendecks ausprobieren k\u00f6nnt. Setzt eure Kreaturen gnadenlos ein\\, um gegnerische Basen zu zerst\u00f6ren\\, denn die Weltherrschaft zu \u00fcbernehmen\\, ist in diesem Kartenspiel einfach zu erlernen aber schwierig durchzuf\u00fchren. ",
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4afe1674c2b41b57ab7d5\/a33122f2042558b20183d0d0a1f24321\/trello-409206905.jpg"
+    },
+    {
+      "id": "158",
+      "title": "Uno",
+      "description": "Das prim\u00e4re Ziel bei UNO ist es\\, seine Karten\\, vergleichbar mit Mau-Mau m\u00f6glichst schnell abzulegen\\, wobei mit einem speziellen Blatt gespielt wird.",
+      "players_min": "2",
+      "players_max": "10",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b0026f7da816c0c8d675\/2a445845d6970bc4662c90f28e820b69\/trello-612588192.jpg"
+    },
+    {
+      "id": "159",
+      "title": "Kroko Togo",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "15 - 20 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b2c980d36b93197b622a\/0a66e63c8277dfafe79f18364a12094e\/trello-2091652314.jpg"
+    },
+    {
+      "id": "160",
+      "title": "Frieses Wucherer",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "40 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119412b903d440a8e279d3\/3e19baf031fcaaeaac37a7023c8823f2\/trello1154916312.jpg"
+    },
+    {
+      "id": "161",
+      "title": "Anima - Der Schatten Omegas",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "40 - 100 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11944fe97ee5254b176b3b\/643485325abb424da6c035b3705123c1\/trello1217292650.jpg"
+    },
+    {
+      "id": "162",
+      "title": "Wizard",
+      "description": null,
+      "players_min": "3",
+      "players_max": " 6",
+      "duration": "45 Min",
+      "year": "1995",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1197d1d043a17bc31c354e\/63752550139701a7def1eb2bad45e618\/trello242088034.jpg"
+    },
+    {
+      "id": "163",
+      "title": "Kitchen Garden",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 40 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11980b70ae937d92ab35df\/165cafc98aaee0598c9d25706a41122d\/trello178586681.jpg"
+    },
+    {
+      "id": "164",
+      "title": "Shinobi",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "20 - 40 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119842328cf931b95e9090\/350b0e53e7c1c9c957c0a811b055a59b\/trello88338934.jpg"
+    },
+    {
+      "id": "165",
+      "title": "Android Netrunner - Das Kartenspiel",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b4d36cb7ad9f64f2bd44\/fb5d9c1fb16dddccb3489aa943090f79\/trello506288275.jpg"
+    },
+    {
+      "id": "166",
+      "title": "Kniffel",
+      "description": null,
+      "players_min": "1",
+      "players_max": "x",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aabbf743a311e61109e2\/c081d3788e7da6196a094797ab5bdc4f\/photo.jpg"
+    },
+    {
+      "id": "167",
+      "title": "Solitaire",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49cb15605d24de93b2d64\/0b1dfc39e59e1f829f63ef608b81a770\/photo.jpg"
+    },
+    {
+      "id": "168",
+      "title": "Schiffe Versenken",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49c4079d224da316d871e\/4210ff5d3a31a1387e5553f6aed7f2d5\/photo.jpg"
+    },
+    {
+      "id": "169",
+      "title": "Domino",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49c9142863c16dade9c21\/d49f6c2d58d2ab8e1397e55e1aab0697\/photo.jpg"
+    },
+    {
+      "id": "170",
+      "title": "W\u00fcrfelbecher",
+      "description": "5 W\u00fcrfel\\n1 Spielblock\\n1 Bleistift\\n1 W\u00fcrfelbecher",
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f494b21dcc840326de7f4e\/bfa9b260f34e702e08d6cf95e98c3a34\/trello1312358742.jpg"
+    },
+    {
+      "id": "171",
+      "title": "N\u00fcrnberger Spielesammlung",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b06332f62874372d8ce0\/44800530b2bca13cec4e431871311b0e\/trello-1773909544.jpg"
+    },
+    {
+      "id": "172",
+      "title": "Das MAD Spiel",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": "1982",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11961c7bcf7c3eb4472317\/c86aa2255d8685ecb4dcafcbb5803594\/trello865872944.jpg"
+    },
+    {
+      "id": "173",
+      "title": "Backgammon",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "30 Min",
+      "year": "1992",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a2a4ce86756253702391\/d989c336aecb2182a0a7726d15a0d5ef\/trello719776041.jpg"
+    },
+    {
+      "id": "174",
+      "title": "Cranium",
+      "description": null,
+      "players_min": "4",
+      "players_max": "x",
+      "duration": "40 Min",
+      "year": "2006",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4800debc38e4e1d424590\/7ac4654e124741179193001aebc474a6\/trello1783202951.jpg"
+    },
+    {
+      "id": "175",
+      "title": "DOG",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "30 - 45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f481085131b5ce05fb26ea\/0267686642beac56df59a27c54688ec6\/trello1657664806.jpg"
+    },
+    {
+      "id": "176",
+      "title": "Hase und Igel",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "45 Min",
+      "year": "1979",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f481746e45fe3095f31470\/5ac71c70894281442b9b5a770b6f3c5d\/trello820106567.jpg"
+    },
+    {
+      "id": "177",
+      "title": "Trivial Persuit - Familien Edition",
+      "description": null,
+      "players_min": "2",
+      "players_max": "36",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4abc03572a9033c395253\/22fe8ea62c2e04aac167217b9be7fa1d\/photo.jpg"
+    },
+    {
+      "id": "178",
+      "title": "Hasch Mich!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "15 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4922ab6ad32e375c07a7d\/73e48144b6f912b16f1996ef513efbac\/photo.jpg"
+    },
+    {
+      "id": "179",
+      "title": "Heckmeck am Bratwurmeck",
+      "description": null,
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "20 - 30 Min",
+      "year": "2005",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49375e15722e3fb4e4480\/05a106e7fa42e34438f0fc74471a9aa0\/photo.jpg"
+    },
+    {
+      "id": "180",
+      "title": "Wanzen tanzen",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4939350905d81a9dd1fe6\/cbd5032f1c9080127ddbf1413547a041\/trello134026785.jpg"
+    },
+    {
+      "id": "181",
+      "title": "Qin",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ac47f6d73b3cd4515ad6\/4978b4cae01f1219cd77f6dbbb645293\/photo.jpg"
+    },
+    {
+      "id": "182",
+      "title": "Max M\u00fcmmelmann",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b318d79f9671de7acff8\/82b2dacaab1e6f9594f209036538d2ed\/trello-745358812.jpg"
+    },
+    {
+      "id": "183",
+      "title": "Zicke Zacke H\u00fchnerkacke",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "15 - 20 Min",
+      "year": "1998",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b34505dc2081fe953d30\/db98c6e1c089b63571071b61f30bc0df\/trello-1327433338.jpg"
+    },
+    {
+      "id": "184",
+      "title": "Da ist der Wurm drin",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "15 - 20 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b37bd91f44adc7cab099\/ebd070992ecec08cba9afc7ddf0c5cd4\/photo.jpg"
+    },
+    {
+      "id": "185",
+      "title": "Hexentanz",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": null,
+      "year": "1989",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b3a2d547f1ce518967ac\/f754479baae38e5055fffe6c41fce935\/trello-658100044.jpg"
+    },
+    {
+      "id": "186",
+      "title": "Spiel mit Kunst f\u00fcr Kinder",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b3c58e066a030bc9b2b4\/5f253a394f8318224b04914de98bc578\/photo.jpg"
+    },
+    {
+      "id": "187",
+      "title": "Schwarzer Tiger \u0026 Quartett",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": null,
+      "year": "1996",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b3f83917398c858789f5\/e9c05d4ec1ad4e08b60e6e6d291a98ee\/trello-573300505.jpg"
+    },
+    {
+      "id": "188",
+      "title": "Der Tiger und der B\u00e4r spielen Quartett",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b422e8d87bfce4324867\/c038a4785c2bc51d128dc751829b418e\/trello787854127.jpg"
+    },
+    {
+      "id": "189",
+      "title": "Oh wie sch\u00f6n ist Panama Memo",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": "15 - 20 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b460ae90eefcf20adc22\/d50c19692cda31d4e88d14e6051bd0a0\/trello-944822841.jpg"
+    },
+    {
+      "id": "190",
+      "title": "Mit K\u00f6pfchen",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "10 - 15 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b48bd6901a2ff028191e\/6029170f35988ed57a8332c86c4d8225\/photo.jpg"
+    },
+    {
+      "id": "191",
+      "title": "Heimlich \u0026 CO",
+      "description": null,
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "20 - 40 Min",
+      "year": "1986",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b4c13f32bfa9f9435c88\/1d533ef7e2770e0405746680b49d27a6\/photo.jpg"
+    },
+    {
+      "id": "192",
+      "title": "Gruselino",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": "1999",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b4e7e02c4737bbe08863\/ac6c955d5c6d5e8c56af049cb5df3913\/photo.jpg"
+    },
+    {
+      "id": "193",
+      "title": "T\u00fc\u00fct! T\u00fc\u00fct!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "5 - 10 Min",
+      "year": "2010",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b51ca9bd94e3406981d3\/20a8bb263f419d1153ed50ce16315391\/photo.jpg"
+    },
+    {
+      "id": "194",
+      "title": "Blumen finden",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "10 - 15 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b541a403d01b8fdc1772\/426bfbc0fcca8ae69cdaaf8aa8d61170\/trello-36587261.jpg"
+    },
+    {
+      "id": "195",
+      "title": "Obstg\u00e4rtchen",
+      "description": null,
+      "players_min": "1",
+      "players_max": "4",
+      "duration": "10 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b56e141274e474de78d7\/07afb882b96181e647901e3c14cfb3a6\/trello-693455344.jpg"
+    },
+    {
+      "id": "196",
+      "title": "Kuhhandel",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "45 Min",
+      "year": "1985",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b5a18739f14e5e9c4f98\/b4763816926fb59911267c621bc80045\/trello1131437599.jpg"
+    },
+    {
+      "id": "197",
+      "title": "Times Up Family",
+      "description": null,
+      "players_min": "4",
+      "players_max": "12",
+      "duration": null,
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b668b20fbe30b1e310a3\/49e2560c2157f7841fef26a42a34dbfd\/trello-2038724847.jpg"
+    },
+    {
+      "id": "198",
+      "title": "Die drei Magier",
+      "description": null,
+      "players_min": "3",
+      "players_max": "3",
+      "duration": "60 Min",
+      "year": "1985",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1191d248b59fbfcd38f1a4\/831fb5fc864c5ee8cd039fbfdddcb206\/trello1259252296.jpg"
+    },
+    {
+      "id": "199",
+      "title": "K2",
+      "description": null,
+      "players_min": "1",
+      "players_max": " 5",
+      "duration": "60 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1193b39b4d0a0933b1407d\/034350b2df220823a6e6b4a2c477dc37\/trello1105632704.jpg"
+    },
+    {
+      "id": "200",
+      "title": "Futterneid",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "25 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119498f5b561e45ea02a0a\/910cd53306235b664622dcdfb449c893\/trello745196859.jpg"
+    },
+    {
+      "id": "201",
+      "title": "Eselsbr\u00fccke",
+      "description": null,
+      "players_min": "3",
+      "players_max": "12",
+      "duration": "30 - 45 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1194ec03363ab5a09a2282\/cd2c53e2e2f6f1e6f8fc382e41b2eea3\/trello717783041.jpg"
+    },
+    {
+      "id": "202",
+      "title": "Um Reifenbreite",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 Min",
+      "year": "1992",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1195e539189fe1b2bb4bc2\/403ed61c5a31e91405b5b643881bf2a3\/trello1782776092.jpg"
+    },
+    {
+      "id": "203",
+      "title": "drunter und dr\u00fcber",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30  - 45 Min",
+      "year": "1991",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11968c08dd3c048ae492b2\/d7f5074ce523b9ea21bec120176bc4e7\/trello2042351008.jpg"
+    },
+    {
+      "id": "204",
+      "title": "Die G\u00e4rten der Alhambra",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 - 60 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11970d43aa5e822b7a7539\/1e081e06f1601c4ce9725306847915ed\/trello1473561827.jpg"
+    },
+    {
+      "id": "205",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11970d43aa5e822b7a7539\/aaf81722044ce33f2fb0c810cd11d7d3\/trello582470602.jpg"
+    },
+    {
+      "id": "206",
+      "title": "Geister\\, Geister\\, Schatzsuchmeister",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11973d7a115ac821bea510\/9b9e2daeb901dc467ffb8ff94f380bde\/trello1588782233.jpg"
+    },
+    {
+      "id": "207",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11973d7a115ac821bea510\/531a413fbb0a5697f43a411b8125f32f\/trello1007549645.jpg"
+    },
+    {
+      "id": "208",
+      "title": "String Railway",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11979e1af805a71313e542\/50187b423e2af2baeae86ede4bd42236\/trello1776737995.jpg"
+    },
+    {
+      "id": "209",
+      "title": "Im Wald da sind die R\u00e4uber",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60+ Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a0b4cb1e69e9154390d8\/b2839ffbcb6e87bea07489298186774b\/trello1634982374.jpg"
+    },
+    {
+      "id": "210",
+      "title": "Das Labyrinth des Pharao",
+      "description": null,
+      "players_min": "1",
+      "players_max": "5",
+      "duration": "30 - 45 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a179e26b5030fc95883c\/523381355bf33c7221942e542d442f84\/trello541140257.jpg"
+    },
+    {
+      "id": "211",
+      "title": "Camel Cup",
+      "description": null,
+      "players_min": "2",
+      "players_max": "8",
+      "duration": "20 - 30 Min",
+      "year": "2014",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a1b2c6b4cc96c9acc669\/15bf2bb6a564bfd578faad84eb67d096\/trello1775707459.jpg"
+    },
+    {
+      "id": "212",
+      "title": "Sagaland",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "1982",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a260615fa324ca5ddc97\/3ca3ff5da2b98e94f0a05714afa3e83b\/trello2090638906.jpg"
+    },
+    {
+      "id": "213",
+      "title": "Zooloretto",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "45 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b53c4b3346ebd62c1949\/a5ab871c72a38602e92a055daa4354ad\/trello761632605.jpg"
+    },
+    {
+      "id": "214",
+      "title": "Riff Raff!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b60ad22eca1f394017c8\/5bf18d07309bc9be8a9839eb0a111e55\/trello996380248.jpg"
+    },
+    {
+      "id": "215",
+      "title": "Scotland Yard",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "45 Min",
+      "year": "2003",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b66be26b5030fc96365e\/4a1c93210e376e17363c3fe84a138403\/trello94428781.jpg"
+    },
+    {
+      "id": "216",
+      "title": "Auf Achse",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "60 - 120 Min",
+      "year": "1987",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f483ff0d4f638c8742053f\/9138740c9d0361cfcee8598a94821f48\/trello1804473503.jpg"
+    },
+    {
+      "id": "217",
+      "title": "Villa Paletti",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "2002",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b808ee1f2e1318bd66f5\/faab31cdcc9e0f410c9902f81ede9507\/trello2020617693.jpg"
+    },
+    {
+      "id": "218",
+      "title": "Tabu",
+      "description": null,
+      "players_min": "4",
+      "players_max": "4",
+      "duration": null,
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48847e75d8f2c530a6073\/80d1070c35f359b7901b025b0d21ba68\/photo.jpg"
+    },
+    {
+      "id": "219",
+      "title": "Prestel Kunstspiel",
+      "description": null,
+      "players_min": "3",
+      "players_max": "7",
+      "duration": null,
+      "year": "1998",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f48893aee1a4f2323a5c5d\/444b667677056f6446eb483669940b9c\/trello1831914422.jpg"
+    },
+    {
+      "id": "220",
+      "title": "Mikado",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "15 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49423d7bea5358d0a6b51\/4d30546a8e36b4fcab6e509a9d48a3d6\/photo.jpg"
+    },
+    {
+      "id": "221",
+      "title": "Times Up",
+      "description": null,
+      "players_min": "4",
+      "players_max": "12",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4945eb755ccfce6a47139\/e42f1fac5472bb4f33f4992f03078106\/photo.jpg"
+    },
+    {
+      "id": "222",
+      "title": "Camp Roskilde",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "10 - 30 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49e9f3b4c9c9c4fbada09\/eba097d4a6d6595db1eac028d1736822\/photo.jpg"
+    },
+    {
+      "id": "223",
+      "title": "Bumm Bumm Ballon",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": "15 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a58a72a6b317154fbbd0\/efff0fcc5ea313fcaf1b832f213e2227\/photo.jpg"
+    },
+    {
+      "id": "224",
+      "title": "Bumm Bumm Ballon",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": "15 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a5701aaeb07bf6daf43c\/4e0fc4788b2a41b0623c44d591bb77e3\/photo.jpg"
+    },
+    {
+      "id": "225",
+      "title": "Twister",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": "10 Min",
+      "year": "1999",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a597891d854e0266e7cc\/c7eb0db281b01496adfd303a5f8580cc\/trello510894993.jpg"
+    },
+    {
+      "id": "226",
+      "title": "Schwedenschach f\u00fcr Kinder",
+      "description": null,
+      "players_min": "2",
+      "players_max": "12",
+      "duration": null,
+      "year": null,
+      "image": null
+    },
+    {
+      "id": "227",
+      "title": "Cross Boule",
+      "description": null,
+      "players_min": "2",
+      "players_max": "9",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a5f4436ab5301adf3d54\/c476fe735e2e31652522a8150b2f6cb6\/trello-1406517298.jpg"
+    },
+    {
+      "id": "228",
+      "title": "Life Style",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "45 - 60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aa2a34f157bdeb528313\/7a82986af81499869aab3a9527063e99\/photo.jpg"
+    },
+    {
+      "id": "229",
+      "title": "Reisen Mensch \u00c4rger dich nicht",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ac9dcf52d13c9603a7bf\/abfff4196e3710c5dffb61dc8e232f77\/photo.jpg"
+    },
+    {
+      "id": "230",
+      "title": "Wikinger Schach",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b69fe1eaa4027d3d96c0\/ff4614297d51cd98234b890b3b5eedfb\/trello-584994813.jpg"
+    },
+    {
+      "id": "231",
+      "title": "Looping Louie",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "10 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a0768aeee0053642ba1f\/365618e096f1e8b7279e14f3e45a2ff3\/trello348333185.jpg"
+    },
+    {
+      "id": "232",
+      "title": "Panic Tower!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "8",
+      "duration": "20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b5d5746e4e047e3b016a\/e9cf83fb0cdfff9c0acc6417736c81af\/trello428974403.jpg"
+    },
+    {
+      "id": "233",
+      "title": "Imperial Aussault - Das Imperium greift an",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a119fad1ea74075536620db\/a834d93b915bee13545ce81cae26daeb\/trello1390911735.jpg"
+    },
+    {
+      "id": "234",
+      "title": "Expedition - Abenteuer ins Unbekannte",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "60 - 120 Min",
+      "year": "1995",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4837ea6161eaa702a44a0\/0267cd48a268c185081b549162af2026\/photo.jpg"
+    },
+    {
+      "id": "235",
+      "title": "Carolus Magnus",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f482588b12b840f260a324\/6058b1cb7e8b3161df28f3cf808cf505\/trello860272128.jpg"
+    },
+    {
+      "id": "236",
+      "title": "Medici",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f485b932891891592e7700\/7f314991699e2a856771a76b5121d6fd\/photo.jpg"
+    },
+    {
+      "id": "237",
+      "title": "Fury of Dracula",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "120 - 180 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f482fc52e5f69296ca2401\/730f25d5633706e22afe1da43d8ecf59\/trello418343269.jpg"
+    },
+    {
+      "id": "238",
+      "title": "Reise Carcassonne",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "30 - 45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4929b52e67d3e6c26139a\/9c8ba70afd1136268e0b890720054b2f\/photo.jpg"
+    },
+    {
+      "id": "239",
+      "title": "San Juan",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 - 60 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f499ebcbc71381ffa86894\/2913bf8edb32fc9c1c4757d003e6447b\/photo.jpg"
+    },
+    {
+      "id": "240",
+      "title": "Inspiration",
+      "description": null,
+      "players_min": "3",
+      "players_max": "10",
+      "duration": "45 - 60 Min",
+      "year": "1993",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f49cd47341d6fc6cb582af\/d37e2eb0b836cdb285022c1693e153f4\/photo.jpg"
+    },
+    {
+      "id": "241",
+      "title": "Verlies",
+      "description": null,
+      "players_min": "2",
+      "players_max": "12",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4b07fbe6fb0839e90e1f5\/7fa54f18ec957daaa2bce9322fe7d623\/trello495432007.jpg"
+    },
+    {
+      "id": "242",
+      "title": "Goldbr\u00e4u",
+      "description": null,
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4ac258d8d2602700da515\/36d898f9f1e12354519529310d35a5ab\/trello197874422.jpg"
+    },
+    {
+      "id": "243",
+      "title": "Escape - The curse of the Temple",
+      "description": null,
+      "players_min": "1",
+      "players_max": "5",
+      "duration": "10 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a6e655af7411f7eda078\/b83af7f5ee3a47f28be9f5ecdf8877b8\/trello-243267470.jpg"
+    },
+    {
+      "id": "244",
+      "title": "Der Herr der Ringe - Die Gef\u00e4hrten",
+      "description": null,
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2001",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a7e3d08ebcae25f6a0e9\/59b85e584e09a21028a5c272c9652b6b\/trello1835702151.jpg"
+    },
+    {
+      "id": "245",
+      "title": "Frisbee",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aadfe964d7addf2170d8\/3218452a733fc454308162ce3b47d01b\/trello40557193.jpg"
+    },
+    {
+      "id": "246",
+      "title": "Jenga Boom",
+      "description": null,
+      "players_min": "2",
+      "players_max": "x",
+      "duration": null,
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4a8c398908cbfa6f15316\/8d18058865514c7bf1fc1afc08584de0\/photo.jpg"
+    },
+    {
+      "id": "247",
+      "title": "Flashlight Frisbee",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f4aaf8b3f8b8e2f77fa4f6\/e530d45ec6458e0b3fb6160ac13de482\/trello1929435540.jpg"
+    },
+    {
+      "id": "248",
+      "title": "Justinian",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 Min",
+      "year": "2006",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1191166e3d303e80442a90\/fa468b832adb6531178f044edaa04a45\/trello1552391883.jpg"
+    },
+    {
+      "id": "249",
+      "title": "Snowdonia",
+      "description": null,
+      "players_min": "1",
+      "players_max": "5",
+      "duration": "30 - 90 Min",
+      "year": "20121 -5",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a2f8cfd146a53840cb6c\/4c5bd5067ca169df83e1645c975edfd4\/trello1026551701.jpg"
+    },
+    {
+      "id": "250",
+      "title": "Wo bist du\\, heller Mond?",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "15 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a3b4c09a33c04c8e8d86\/c150349f09a535d6786ea41c1462e609\/trello470590178.jpg"
+    },
+    {
+      "id": "251",
+      "title": "Hugo - Das Schlossgespenst",
+      "description": null,
+      "players_min": "2",
+      "players_max": "8",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a3ebcaa123a4c2b8ed0e\/5425d4cdeade23a62083d1965b1a7a8e\/trello1012304991.jpg"
+    },
+    {
+      "id": "252",
+      "title": "Manno Monster",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "25 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a421e99283f3a899eddc\/667831fa4e2b014ce3f65725da260fa4\/trello1781821477.jpg"
+    },
+    {
+      "id": "253",
+      "title": "Flash Point",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "45 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a45c3c8e3941398d43b8\/8b3be8e55b7c0504002cfa2690a29ea4\/trello1930911088.jpg"
+    },
+    {
+      "id": "254",
+      "title": "Verflixxt!",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "30 Min",
+      "year": "2005",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a5c07a02763e19fe3093\/ba997df0e5a87a9bae12e419beefeeef\/trello1812732889.jpg"
+    },
+    {
+      "id": "255",
+      "title": "Shalom",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "120 Min",
+      "year": "1990",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a5f799c3e8c80f50a3d6\/a7d0018a964ea4fc0027b3e5740c761a\/trello1916442639.jpg"
+    },
+    {
+      "id": "256",
+      "title": "Heimlich und Co.",
+      "description": null,
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "20 - 40",
+      "year": "19868+",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a63c82483aec3aee2d10\/acf666ec0efba26ea82d373ae47c257f\/trello658178721.jpg"
+    },
+    {
+      "id": "257",
+      "title": "Heli Hopper",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "15 - 20 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a68d91841e3a072dc25a\/a7041fce0ce6e7d4d8a1032178e613b3\/trello856626655.jpg"
+    },
+    {
+      "id": "258",
+      "title": "Dampfross",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "1984",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a6f25500593404b790ab\/158cd44005b5e3f02d0ea0f737a58b76\/trello1139031807.jpg"
+    },
+    {
+      "id": "259",
+      "title": "Dampfross 2",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a7339b062c02d9bb3bdb\/e05561eaf2610ca943b62666e1f760a0\/trello2055030809.jpg"
+    },
+    {
+      "id": "260",
+      "title": "Die Goldene Stadt",
+      "description": null,
+      "players_min": "3",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "2009",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a76fea24e7f3b8b23ba2\/22665a32eb36c9b2e730caf1fbda6d45\/trello1408618747.jpg"
+    },
+    {
+      "id": "261",
+      "title": "Die Peking-Akte",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "2002",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a7b75a4de892d783ff62\/26329ae3d33f0735fd50f9cac6b78ccb\/trello1405716278.jpg"
+    },
+    {
+      "id": "262",
+      "title": "Bankraub",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "60 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a813f032131305e1bf1b\/464aef69487b596b9be35d7cdfcb84e2\/trello1353332561.jpg"
+    },
+    {
+      "id": "263",
+      "title": "TriCoLor",
+      "description": null,
+      "players_min": "2",
+      "players_max": "3",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a856ffca19ec04bce007\/23b30ee1119faa90c09066d550791ecd\/trello1833506227.jpg"
+    },
+    {
+      "id": "264",
+      "title": "Qwirkle",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a8a60a04057085eb88a9\/36730fa79a9a12ff7912ca596bcafab0\/trello1841329865.jpg"
+    },
+    {
+      "id": "265",
+      "title": "Gran",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "50 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11a8e8f00504048ccf57cc\/881ce80fdfaf8b37bfbdc1a288a9556d\/trello1444813350.jpg"
+    },
+    {
+      "id": "266",
+      "title": "Ulysses",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "30 - 45 Min",
+      "year": "2001",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11aa791ea74075536690aa\/e08c3427f6d86eb1cb5765f5fa2e15dd\/trello28418226.jpg"
+    },
+    {
+      "id": "267",
+      "title": "Euphrat und Tigris",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 Min",
+      "year": "1997",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11aadbc8ecad3deea5a4e0\/5b183340deff9ca1e276851038bf5b44\/trello821027632.jpg"
+    },
+    {
+      "id": "268",
+      "title": null,
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11aadbc8ecad3deea5a4e0\/f28a0dcb4ebbaeab8cd108a34ecb1dbb\/trello1543224308.jpg"
+    },
+    {
+      "id": "269",
+      "title": "Heads of State",
+      "description": null,
+      "players_min": "2",
+      "players_max": "5",
+      "duration": "90  - 120 Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11ab3f2a4d8c4a08cd49a7\/116b497b5bb38fab8b4c2ad0fd8906fd\/trello717183260.jpg"
+    },
+    {
+      "id": "270",
+      "title": "Magalon",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 Min",
+      "year": "1998",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11ab74cabf6e533c73708f\/00a32a293c2237149f25e64834e4d0a0\/trello1924680768.jpg"
+    },
+    {
+      "id": "271",
+      "title": "Die Siedler von Catan - Das Kartenspiel f\u00fcr zwei Spieler",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": "1996",
+      "image": null
+    },
+    {
+      "id": "272",
+      "title": "Blitz und Donner - G\u00f6ttlicher Zwist f\u00fcr zwei",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "40 Min",
+      "year": "2000",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b8fc99c3e8c80f51b13f\/5ca7131efe8509a4daec9f5fa177e4db\/trello1759499566.jpg"
+    },
+    {
+      "id": "273",
+      "title": "Caesar und Cleopatra - Ein Kartenspiel f\u00fcr zwei Spieler",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "30 - 40 Min",
+      "year": "1997",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b938c06e8460351040b3\/f902cee4ec9a1c0304c1522ca3ba4b1e\/trello1248639726.jpg"
+    },
+    {
+      "id": "274",
+      "title": "Spectaculum",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 45 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/59f485e4738eaee9faa20d30\/3e4fb44c1bbc82753160210b7d079462\/trello111364774.jpg"
+    },
+    {
+      "id": "275",
+      "title": "Der Herr der Ringe - Die Suche",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "30 - 40 Min",
+      "year": "2001",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b99002ef8fe981d697e1\/f6d1b448015246f99a394cacc9519b52\/trello1628954674.jpg"
+    },
+    {
+      "id": "276",
+      "title": "Rosenk\u00f6nig - Dornige Fehde f\u00fcr zwei",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "30 - 40 Min",
+      "year": "1999",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b9c536c0f2e418a396eb\/e19408dae8da8f988bd45513be17abca\/trello719777838.jpg"
+    },
+    {
+      "id": "277",
+      "title": "Pocket Battles Kelten vs. R\u00f6mer",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11ba023fa0606d02d50bd2\/d6ad240f168d312aec397d70648c691e\/trello589965593.jpg"
+    },
+    {
+      "id": "278",
+      "title": "Mole Hill",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": "1995",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11ba31ccedede8f308efdd\/431d4ae01b9d97d3df2158a6b520dfc6\/trello148322760.jpg"
+    },
+    {
+      "id": "279",
+      "title": "Polis - Machtkampf um die Vorherrschaft",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "90 - 120 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11ba800ca478b69422ddd5\/a0348a4fcdfc37f3b7c97d21ac90707c\/trello1715278233.jpg"
+    },
+    {
+      "id": "280",
+      "title": "Doctor Faust",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "30 Min",
+      "year": "1990",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bac97ae9dbd5f5dbf224\/af7736c3068e574865cc45239e4f3f76\/trello1853092811.jpg"
+    },
+    {
+      "id": "281",
+      "title": "Stratego",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": null,
+      "year": "1983",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11baf748af48e21c72f213\/a58e465feb2eb7f28a29a56592f93bed\/trello845533458.jpg"
+    },
+    {
+      "id": "282",
+      "title": "Der Schwarm",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 - 75 Min",
+      "year": "2008",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bb45a0fa27626d739cfa\/0da61906d62fae65950f521177ee2ca9\/trello1914347055.jpg"
+    },
+    {
+      "id": "283",
+      "title": "Dice Devils - Der h\u00f6llische W\u00fcrfelspa\u00df",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "30 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bb832eef1dd430c2cdb6\/b4c130d780df6835cbf5191b31abdace\/trello606898177.jpg"
+    },
+    {
+      "id": "284",
+      "title": "Rondo",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bbac30466e310221cae5\/77c53f150e063bd2e080a9de206565bd\/trello1859713785.jpg"
+    },
+    {
+      "id": "285",
+      "title": "Mausefalle",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": null,
+      "year": "1991",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bc00b2ee3b8b6f3d49c1\/14291d4a3b401a2b6d6d96fedb941582\/trello1548393226.jpg"
+    },
+    {
+      "id": "286",
+      "title": "Drachenland",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bc2ab24ab3a934a8f62e\/45382380a1bc329d412a1c07110a81c6\/trello154706976.jpg"
+    },
+    {
+      "id": "287",
+      "title": "Das kleine Gespenst",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "15 Min",
+      "year": "2005",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bc5e503800a551a4a43b\/e38b4d398c646a56b3f1f1823a9c19c6\/trello492528505.jpg"
+    },
+    {
+      "id": "288",
+      "title": "Vanuatu",
+      "description": null,
+      "players_min": "3",
+      "players_max": "5",
+      "duration": "90 Min",
+      "year": "2011",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bc991bf62fe1f69d0038\/c00e0bace1891e586cb7552e973f4f89\/trello1194557808.jpg"
+    },
+    {
+      "id": "289",
+      "title": "Lakota",
+      "description": null,
+      "players_min": "2",
+      "players_max": "6",
+      "duration": "30 Min",
+      "year": "2004",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bcebbcdea8821cb5226e\/b030c6a879f1bc7ec8958ba6a04708c0\/trello1372785811.jpg"
+    },
+    {
+      "id": "290",
+      "title": "Tippkick",
+      "description": null,
+      "players_min": "2",
+      "players_max": "2",
+      "duration": "2 - 5 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bd1e855438a4f84a3d44\/bb8b9157e2aa52b770ee444748e5dbf2\/trello1928122313.jpg"
+    },
+    {
+      "id": "291",
+      "title": "Pictomania",
+      "description": null,
+      "players_min": "3",
+      "players_max": "6",
+      "duration": "25 - 45 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bd54d077a0410f22d11f\/7c4fa29d45dab63b01a313eac001485b\/trello1870284087.jpg"
+    },
+    {
+      "id": "292",
+      "title": "Scrabble Freestyle",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": null,
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bd9bac2be8e4a75e5294\/d4704e51b65f1ad4a8168d809e64c18e\/trello1026413788.jpg"
+    },
+    {
+      "id": "293",
+      "title": "Monopoly",
+      "description": null,
+      "players_min": "2",
+      "players_max": "8",
+      "duration": null,
+      "year": "1996",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bdcfe35f49b79964727f\/c479112e2cfb24dd96030ab6c1ed335b\/trello2123725368.jpg"
+    },
+    {
+      "id": "294",
+      "title": "Labyrinth der Meister",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "20 - 30 Min",
+      "year": "1995",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11bdfdee4c67e3ff03d190\/d42ecf42931ab7c2b7b8cbc303b7fa79\/trello1264552393.jpg"
+    },
+    {
+      "id": "295",
+      "title": "Pokerkoffer",
+      "description": null,
+      "players_min": null,
+      "players_max": null,
+      "duration": null,
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11be410a04057085ecd8fa\/2ecada7ba6827cc3e2181ad900fbc0d8\/trello1972383414.jpg"
+    },
+    {
+      "id": "296",
+      "title": "Pelican Bay",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "30 - 40 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11be57434b0261f05c9308\/5a9b8aca555c9631fa981ca132dfd869\/trello384879805.jpg"
+    },
+    {
+      "id": "297",
+      "title": "Milestones",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 - 90 Min",
+      "year": "2012",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11be89ccedede8f309161d\/15204401e1c7853db69db18cc8a96086\/trello1467900238.jpg"
+    },
+    {
+      "id": "298",
+      "title": "Dust - Das Brettspiel",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "60 - 180 Min",
+      "year": "2007",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a1195b6bfba3061d8dd02ff\/037e62ed844428f1248c96d986c4f618\/trello108248336.jpg"
+    },
+    {
+      "id": "299",
+      "title": "Junta",
+      "description": null,
+      "players_min": "2",
+      "players_max": "7",
+      "duration": "120 Min",
+      "year": "2013",
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b3d8347073655f097141\/6a76a17e0e204394a76effcd49ca5cc5\/trello672831638.jpg"
+    },
+    {
+      "id": "300",
+      "title": "Rock\u0027n Rodeo",
+      "description": null,
+      "players_min": "2",
+      "players_max": "4",
+      "duration": "90 Min",
+      "year": null,
+      "image": "https:\/\/trello-attachments.s3.amazonaws.com\/59f3e51d109e0873eb2ad255\/5a11b6ac6b3dcf816bdd1fc9\/420cb707439c673763f862a8559dcdde\/trello355142237.jpg"
+    }
+  ]
+}
